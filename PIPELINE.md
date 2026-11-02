@@ -42,4 +42,6 @@ Sebelum membuat post, cek log.json: kalau tanggal+jalur itu sudah ada, lewati ja
 6. Perbarui log.json (id post Buffer, jalur, tanggal) dan topics-buku.md.
 7. results.md: untuk carousel yang sudah tayang >= 24 jam, ambil metrik IG (list_posts channel IG, includeMetrics) dan, untuk jalur A, views thread sumber; isi barisnya.
 8. followers.md: jika ada tool yang menampilkan jumlah followers IG (cek get_channel / metrik Buffer), tambahkan satu baris harian beserta konten yang tayang kemarin. Jika tidak tersedia, tulis 'menunggu angka dari Devi' dan sebutkan di ringkasan akhir.
-9. Commit dan push. Jangan menghapus atau mengubah post yang sudah ada di Buffer.
+9. Reels: post video di channel Instagram yang dibuat di luar pipeline ini (Reels mitos/fakta sains, biasanya tayang sekitar 12:00 dan 19:00 WIB). JANGAN diubah atau dihapus. Untuk Reels yang sudah tayang >= 24 jam dan belum tercatat, ambil metriknya (list_posts channel IG, includeMetrics) dan tambahkan baris di tabel Reels di results.md.
+10. Setiap Senin: tulis "Ringkasan mingguan" di results.md: rata-rata reach, saves, shares, dan komentar per format (Reels, Carousel A, Carousel B) selama 7 hari terakhir, 3 konten terbaik, perubahan followers dari followers.md, dan satu rekomendasi format mana yang diperbanyak.
+11. Commit dan push. Jangan menghapus atau mengubah post yang sudah ada di Buffer.
