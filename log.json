@@ -6,7 +6,16 @@
       "thread_buffer_post_id": "see playbook (record 194k views)",
       "thread_views_at_conversion": 194000,
       "ig_buffer_post_id": "6ae81f21759fc887b6cd0f3b",
-      "folder": "2026-11-02-faring"
+      "folder": "2026-11-02-faring",
+      "track": "A"
+    },
+    {
+      "date": "2026-11-03",
+      "track": "B",
+      "topic": "Anak di barisan depan yang hampir tidak pernah disapa",
+      "ig_scheduled_at": "2026-11-03T20:13:00+07:00",
+      "ig_buffer_post_id": "(diisi setelah create_post)",
+      "folder": "2026-11-03-buku-barisan-depan"
     }
   ]
 }

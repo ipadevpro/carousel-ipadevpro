@@ -1,0 +1,21 @@
+# Bank topik jalur B (renungan suara langsung, relevan dengan buku "Kelas Ini Tidak Pernah Selesai")
+
+Aturan: JANGAN mengutip buku, JANGAN menceritakan ulang cerita di buku, JANGAN membuat anekdot murid rekaan seolah nyata. Tulis sebagai renungan langsung ke guru ("kamu", "Bapak dan Ibu"), dengan kata "mungkin/bisa jadi" untuk hal yang bukan fakta pasti. Hangat dan menyentuh, bukan memeras air mata. Hindari tragedi sebagai hook (kematian murid, kekerasan, bunuh diri).
+
+Tandai [x] setelah dipakai, beserta tanggal.
+
+- [x] Anak di barisan depan yang hampir tidak pernah disapa (2026-11-03)
+- [ ] Murid yang selalu terlambat: bisa jadi ia sudah lelah sebelum harinya dimulai (tanya dulu, jangan langsung marah)
+- [ ] Murid yang "lupa bawa buku": mungkin ia tidak punya tempat tetap untuk menyimpannya
+- [ ] Murid yang dicap nakal: kadang ia hanya ingin didengar
+- [ ] Sapaan di gerbang pagi: hal kecil yang mungkin jadi alasan seorang anak tetap datang
+- [ ] Nada suara saat menegur: anak ingat cara kita bicara lebih lama dari isi tegurannya
+- [ ] Murid pendiam di kerja kelompok: beri peran, bukan sekadar nama di daftar
+- [ ] Pujian untuk usaha, bukan hanya nilai: anak yang nilainya biasa juga butuh dirayakan
+- [ ] Murid yang selalu bilang "tidak apa-apa, Pak/Bu": belajar membaca yang tidak diucapkan
+- [ ] Guru juga boleh minta maaf pada murid: itu tidak mengurangi wibawa
+- [ ] Murid yang nilainya kecil tapi hatinya besar: rapor tidak mengukur semuanya
+- [ ] Satu kalimat guru yang bisa terbawa sampai dewasa: pilih kata dengan sadar
+- [ ] Anak yang tidak pernah dijemput: siapa yang menunggu bersamanya?
+- [ ] Hari terakhir sekolah: murid yang paling diam sering paling sulit berpamitan
+- [ ] Guru yang lelah: merawat diri supaya tetap bisa hadir untuk murid

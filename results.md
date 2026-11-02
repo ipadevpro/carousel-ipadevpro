@@ -1,7 +1,9 @@
-# Hasil: Threads vs Instagram
+# Hasil carousel Instagram @ipadevpro
 
-Satu baris per carousel. Diisi otomatis tiap hari oleh tugas terjadwal setelah metrik IG tersedia (minimal 24 jam setelah tayang).
+Jalur A = personifikasi edukasi (konversi thread Threads viral). Jalur B = renungan suara langsung yang relevan dengan buku.
+Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. Untuk jalur B kolom Threads diisi "-".
 
-| Tanggal tayang IG | Thread sumber | Views Threads | Reach/Impressions IG | Likes IG | Komentar IG | Saves/Shares IG | Catatan |
-|---|---|---|---|---|---|---|---|
-| 2026-11-02 20:45 | Faring (Duri Ikan) | 194.000 | menunggu | menunggu | menunggu | menunggu | carousel pertama |
+| Tayang IG | Jalur | Judul/topik | Views Threads | Reach/Impr. IG | Likes | Komentar | Saves | Shares | Catatan |
+|---|---|---|---|---|---|---|---|---|---|
+| 2026-11-02 20:45 | A | Faring (Duri Ikan) | 194.000 | menunggu | | | | | carousel pertama |
+| 2026-11-03 20:13 | B | Anak di barisan depan | - | menunggu | | | | | jalur B pertama |

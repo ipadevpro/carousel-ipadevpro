@@ -1,39 +1,44 @@
-# Pipeline harian: thread personifikasi Threads -> carousel Instagram @ipadevpro
+# Pipeline harian: 2 carousel Instagram @ipadevpro
 
 ## Aset
 - Buffer org id: 682887c330d408bb78641b35
 - Channel Threads: 68288862f49c987a953a2e25
 - Channel Instagram: 6ae81d63e29c69a171334a3d (business, direct publishing)
 - Repo ini publik. URL gambar untuk Buffer: https://raw.githubusercontent.com/ipadevpro/carousel-ipadevpro/main/<folder>/slideN.jpg
-- Zona waktu: Asia/Jakarta. Font Inter terpasang lokal di sandbox (Google Fonts diblokir).
+- Zona waktu: Asia/Jakarta. Font Inter terpasang lokal (Google Fonts diblokir). Playwright sudah terpasang.
 
-## Gaya visual (jangan diubah)
-Kertas buku tulis 1080x1350: krem #FBF3DF, garis biru rgba(120,150,185,.35) tiap 72px, margin bata #B5483A di x=160, tiga lubang binder, tinta #1B1B1F, abu hangat #6B6558, bata #B5483A, stabilo kuning #FFE14D untuk satu frasa kunci per slide. Inter Black huruf kapital untuk judul. Maskot = tokoh yang bercerita di thread (flat 3 nada, outline tinta tebal, bayangan datar #BCCADA).
-Referensi lengkap: folder template/faring (6 file .dc.html). Salin lalu ganti teks dan ilustrasi SVG.
+## Jadwal tayang (pakai mode customScheduled, BUKAN antrean)
+- Jalur A: 06:47 WIB hari yang sama
+- Jalur B: 20:13 WIB hari yang sama
+Sebelum membuat post, cek log.json: kalau tanggal+jalur itu sudah ada, lewati jalur tersebut.
 
-## 6 slide
-1. Hook: larangan utama (dari baris pertama thread) + ilustrasi dicoret + "Geser untuk tahu kenapa" (satu-satunya panah).
-2. Tokoh memperkenalkan diri + kalimat 'kamu mengira... sering kali...' + ilustrasi tokoh.
-3. Kenapa kebiasaan itu keliru (2 blok teks + ikon).
-4. Yang benar dilakukan (3 langkah bernomor).
-5. Tanda bahaya / kapan ke dokter atau IGD, atau aturan kunci kedua.
-6. Penutup suara tokoh + ajakan simpan dan kirim ke grup WA guru dan wali murid + catatan kaki "Ceritanya fiksi... tidak menggantikan pemeriksaan dokter" (untuk topik kesehatan).
+## Jalur A: personifikasi edukasi (konversi thread viral)
+- Sumber: post Threads terkirim (list_posts channel Threads, includeMetrics, telusuri beberapa halaman; get_post untuk isi thread penuh). Pilih format personifikasi (organ/penyakit/benda bercerita, "JANGAN ... DAN JANGAN ...", suara orang pertama) dengan views tertinggi yang belum ada di log.json.
+- Gaya: template/faring (6 file .dc.html). Kertas buku tulis, maskot tokoh narator (flat 3 nada, outline tinta, bayangan datar #BCCADA).
+- Render: node template/render.js <dir berisi Main.dc.html + Slide2..6.dc.html> <outdir>
+- 6 slide: hook larangan + ilustrasi dicoret + "Geser untuk tahu kenapa" / tokoh memperkenalkan diri + "kamu mengira... sering kali..." / kenapa keliru / yang benar (3 langkah) / tanda bahaya atau aturan kunci kedua / penutup suara tokoh + ajakan simpan dan kirim + catatan kaki fiksi untuk topik kesehatan.
+- Hanya klaim yang ada di thread. Tidak menambah saran medis baru.
 
-## Aturan isi (antislop)
-- Hanya klaim yang ada di thread sumber. Dilarang mengarang angka, persentase, nama studi.
-- Tanpa tanda pisah panjang (em dash), tanpa panah dekoratif, tanpa pil/eyebrow dekoratif, tanpa ikon kilau.
-- Palet maksimal: netral + bata + kuning stabilo.
-- Satu ide per slide, teks min 34px (catatan kaki min 26px).
-- Topik kesehatan/keselamatan: tidak menambah saran medis baru di luar thread.
+## Jalur B: renungan suara langsung, relevan dengan buku "Kelas Ini Tidak Pernah Selesai"
+- Topik: ambil topik [ ] berikutnya dari topics-buku.md (boleh menulis topik baru yang setema bila habis), lalu tandai [x] + tanggal.
+- TANPA karakter/maskot. Hanya tipografi. TANPA kutipan atau cerita ulang dari buku. TANPA anekdot murid rekaan seolah nyata.
+- Gaya: template/buku/gen_buku.py (contoh lengkap "Anak di barisan depan"). Salin, ganti isi daftar slide S, jalankan: python3 gen_buku.py <outdir> lalu node template/render_html.js <outdir> <outdir>.
+- Hierarki tipe (wajib): DISPLAY kapital 84-120px hanya untuk satu kalimat pendek per slide; HEAD 50-72px huruf biasa tebal untuk penekanan; BODY 40-46px huruf biasa; LABEL 28px merah kapital bernomor; satu frasa stabilo kuning per slide; kata berhubung dibungkus white-space:nowrap.
+- Alur 6 slide: (1) hook menunjuk pembaca langsung + 1-2 kalimat konteks + "Geser pelan-pelan" / (2) konteks pendek lalu kalimat kunci kapital + penekanan stabilo / (3) edukasi: judul + 2 poin bernomor + kalimat penutup / (4) tiga hal kecil yang bisa dicoba / (5) puncak emosi: satu perintah kapital besar + kutipan bergaris merah / (6) ajakan besok pagi + kalimat penutup menyentuh + kotak CTA "Simpan, lalu kirim ke satu guru yang kamu kenal." dan "Kisah murid ... kutulis di buku Kelas Ini Tidak Pernah Selesai. Link di bio." + catatan kaki "Tulisan ini renungan, bukan kisah satu murid tertentu."
+- Caption: renungan singkat 3-5 kalimat, tiga hal kecil, ajakan simpan dan kirim, satu kalimat soft selling buku + "link di bio", 10 hashtag (#guru #guruindonesia #pendidikan #refleksiguru #muridku #kelasinitidakpernahselesai #bukuguru #gurupenggerak #parenting #ipadevpro).
 
-## Render
-node template/render.js <dir berisi Main.dc.html + Slide2..6.dc.html> <outdir>   (hasil slide1..6.jpg, quality 92)
-Cek tiap JPG dengan Read untuk teks yang meluap atau tumpang tindih sebelum push.
+## Aturan isi (antislop, kedua jalur)
+- Tidak mengarang angka, persentase, atau studi.
+- Tanpa tanda pisah panjang (em dash), tanpa panah dekoratif (kecuali isyarat geser slide 1), tanpa pil/eyebrow dekoratif, tanpa ikon kilau.
+- Palet: krem #FBF3DF, tinta #1B1B1F, abu hangat, bata #B5483A, stabilo #FFE14D.
+- Periksa SETIAP JPG dengan Read: teks meluap, tumpang tindih, kata terputus, ruang kosong besar. Perbaiki sebelum push.
 
-## Alur tugas harian
-1. Baca log.json (thread yang sudah dikonversi) dan results.md.
-2. Pilih thread: ambil post Threads sent (list_posts includeMetrics, halaman berurutan) berformat personifikasi (tokoh organ/penyakit/benda bercerita, "JANGAN ... DAN JANGAN ...", suara orang pertama), views tertinggi yang belum ada di log.json.
-3. Buat 6 slide, render, periksa, simpan di folder YYYY-MM-DD-slug/ (JPG + src/), commit, push ke main.
-4. Tunggu sekitar 3 menit, cek URL raw (curl -I harus 200), lalu create_post ke channel Instagram: mode addToQueue, schedulingType automatic, metadata.instagram {type: post, shouldShareToFeed: true}, 6 asset gambar dengan altText, caption + 10 hashtag. Caption: ringkasan thread, langkah benar, ajakan simpan dan kirim, catatan fiksi untuk topik kesehatan.
-5. Perbarui log.json. Isi results.md untuk carousel yang sudah tayang >= 24 jam: ambil metrik IG (list_posts channel IG, includeMetrics) dan views thread sumber (get_post), tulis satu baris.
-6. Commit dan push.
+## Alur tugas harian (jalan 05:13 WIB)
+1. Baca log.json, results.md, topics-buku.md.
+2. Kerjakan jalur A lalu jalur B (lewati yang sudah ada di log untuk tanggal hari ini).
+3. Simpan tiap carousel di folder YYYY-MM-DD-slug/ (JPG + src/), commit, push ke main.
+4. Tunggu sekitar 3 menit, cek tiap URL raw (curl -I harus 200).
+5. create_post ke channel Instagram: mode customScheduled, dueAt sesuai jadwal di atas (+07:00), schedulingType automatic, metadata.instagram {type: post, shouldShareToFeed: true}, 6 aset gambar dengan altText, caption + 10 hashtag. Jika jam tayang sudah lewat, pakai slot +2 jam dari sekarang.
+6. Perbarui log.json (id post Buffer, jalur, tanggal) dan topics-buku.md.
+7. results.md: untuk carousel yang sudah tayang >= 24 jam, ambil metrik IG (list_posts channel IG, includeMetrics) dan, untuk jalur A, views thread sumber; isi barisnya.
+8. Commit dan push. Jangan menghapus atau mengubah post yang sudah ada di Buffer.
