@@ -41,4 +41,5 @@ Sebelum membuat post, cek log.json: kalau tanggal+jalur itu sudah ada, lewati ja
 5. create_post ke channel Instagram: mode customScheduled, dueAt sesuai jadwal di atas (+07:00), schedulingType automatic, metadata.instagram {type: post, shouldShareToFeed: true}, 6 aset gambar dengan altText, caption + 10 hashtag. Jika jam tayang sudah lewat, pakai slot +2 jam dari sekarang.
 6. Perbarui log.json (id post Buffer, jalur, tanggal) dan topics-buku.md.
 7. results.md: untuk carousel yang sudah tayang >= 24 jam, ambil metrik IG (list_posts channel IG, includeMetrics) dan, untuk jalur A, views thread sumber; isi barisnya.
-8. Commit dan push. Jangan menghapus atau mengubah post yang sudah ada di Buffer.
+8. followers.md: jika ada tool yang menampilkan jumlah followers IG (cek get_channel / metrik Buffer), tambahkan satu baris harian beserta konten yang tayang kemarin. Jika tidak tersedia, tulis 'menunggu angka dari Devi' dan sebutkan di ringkasan akhir.
+9. Commit dan push. Jangan menghapus atau mengubah post yang sudah ada di Buffer.
