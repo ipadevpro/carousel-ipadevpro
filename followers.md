@@ -12,3 +12,4 @@ Patokan mingguan (kumulatif):
 | Tanggal | Followers | Selisih harian | Konten yang tayang kemarin | Catatan |
 |---|---|---|---|---|
 | 2026-11-02 | 29.900 | - | - | patokan awal (dilaporkan Devi) |
+| 2026-11-03 | menunggu angka dari Devi | - | Reel kopi sachet (2 Nov), carousel Faring (2 Nov) | tidak ada tool yang menampilkan followers |
