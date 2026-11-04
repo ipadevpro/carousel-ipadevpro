@@ -5,7 +5,7 @@ Aturan: JANGAN mengutip buku, JANGAN menceritakan ulang cerita di buku, JANGAN m
 Tandai [x] setelah dipakai, beserta tanggal.
 
 - [x] Anak di barisan depan yang hampir tidak pernah disapa (2026-11-03)
-- [ ] Murid yang selalu terlambat: bisa jadi ia sudah lelah sebelum harinya dimulai (tanya dulu, jangan langsung marah)
+- [x] (2026-11-05) Murid yang selalu terlambat: bisa jadi ia sudah lelah sebelum harinya dimulai (tanya dulu, jangan langsung marah)
 - [ ] Murid yang "lupa bawa buku": mungkin ia tidak punya tempat tetap untuk menyimpannya
 - [ ] Murid yang dicap nakal: kadang ia hanya ingin didengar
 - [ ] Sapaan di gerbang pagi: hal kecil yang mungkin jadi alasan seorang anak tetap datang

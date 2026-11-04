@@ -5,8 +5,9 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 
 | Tayang IG | Jalur | Judul/topik | Views Threads | Reach/Impr. IG | Likes | Komentar | Saves | Shares | Catatan |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-11-02 20:45 | A | Faring (Duri Ikan) | 194.000 | reach 4.267 / views 8.806 | 139 | 6 | 82 | 27 | carousel pertama; 2 follows; metrik per 2026-11-03 13:41 WIB |
-| 2026-11-03 20:13 | B | Anak di barisan depan | - | menunggu (belum 24 jam) | | | | | jalur B pertama |
+| 2026-11-02 20:45 | A | Faring (Duri Ikan) | 194.000 (212.766 per 2026-11-05) | reach 11.312 / views 19.422 | 224 | 8 | 167 | 72 | carousel pertama; 11 follows; metrik per 2026-11-04 13:41 WIB (diperbarui dari angka 3 Nov) |
+| 2026-11-03 20:13 | B | Anak di barisan depan | - | reach 2.124 / views 4.055 | 93 | 0 | 20 | 7 | jalur B pertama; 0 follows; metrik per 2026-11-04 13:41 WIB |
+| 2026-11-04 05:37 | A | Pacet / Hirudin | 39.627 | menunggu (belum 24 jam saat run 5 Nov 05:13 WIB) | | | | | dijadwalkan ulang 05:37 karena jam 06:47 sudah lewat; angka sementara 4 Nov 13:41 WIB: reach 7.416 / views 12.781, 202 likes, 6 komentar, 117 saves, 28 shares, 8 follows |
 
 ## Reels (dibuat di luar pipeline, hanya dicatat)
 
@@ -27,6 +28,7 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-10-31 19:00 | Charger dibiarkan nyolok tanpa HP, bikin token cepat habis? | 1781 | 2167 | 47 | 0 | 9 | 6 | metrik per 2026-11-03 13:41 WIB |
 | 2026-11-01 19:00 | Tidur pakai kipas semalaman bikin paru-paru basah? | 769 | 1174 | 19 | 0 | 10 | 6 | metrik per 2026-11-03 13:41 WIB |
 | 2026-11-02 19:00 | Kopi sachet kok larut tanpa ampas? | 1850 | 2191 | 67 | 0 | 4 | 3 | metrik per 2026-11-03 13:41 WIB |
+| 2026-11-03 19:00 | Minyak jelantah dijernihkan pakai nasi, aman dipak... | 1637 | 1963 | 57 | 0 | 4 | 2 | metrik per 2026-11-04 13:41 WIB |
 
 ## Ringkasan mingguan (diisi tiap Senin)
 
@@ -43,6 +45,8 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 - Rekomendasi: perbanyak Carousel A (konversi thread viral). Satu sampel, tetapi reach sekitar 2,4 kali rata-rata Reels dan saves sekitar 7 kali. Tunggu data Carousel B sebelum menilai jalur B.
 
 ## Catatan jalur
+
+- 2026-11-05: tidak ada carousel 2026-11-04 di log.json (run 4 Nov tidak tercatat), tidak dibuat susulan. Jalur A: Knalpot / Epidermis (thread 21.266 views, dijadwalkan 06:47 WIB). Jalur B: murid yang selalu terlambat (20:13 WIB). Tidak ada Reel terkirim 4 Nov di Buffer; Reels terjadwal berikutnya 6 Nov 19:00 WIB (3D motor), lalu 24, 25, 28 Nov. Thread Pacet sumber diperbarui 39.627 views.
 
 - 2026-11-03 jalur A: Pacet / Hirudin (thread 39.605 views). Jam 06:47 sudah lewat saat run ini membuat post, jadi dijadwalkan 2026-11-04 05:37 WIB (2 jam dari sekarang). Jalur B 2026-11-03 sudah ada di log (Anak di barisan depan), tidak dibuat ulang.
 
