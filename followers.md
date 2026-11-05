@@ -14,3 +14,4 @@ Patokan mingguan (kumulatif):
 | 2026-11-02 | 29.900 | - | - | patokan awal (dilaporkan Devi) |
 | 2026-11-03 | menunggu angka dari Devi | - | Reel kopi sachet (2 Nov), carousel Faring (2 Nov) | tidak ada tool yang menampilkan followers |
 | 2026-11-05 | menunggu angka dari Devi | - | Carousel Pacet (4 Nov 05:37), Carousel B (3 Nov 20:13), Reel jelantah (3 Nov) | tidak ada tool yang menampilkan followers; follows dari carousel (metrik Buffer): Faring 11, Pacet 8 |
+| 2026-11-06 | menunggu angka dari Devi | - | Carousel Knalpot (5 Nov 06:47), Carousel B terlambat (5 Nov 20:13), Reel susu kental manis (4 Nov) | tidak ada tool yang menampilkan followers; follows dari carousel (metrik Buffer): Faring 54, Pacet 25, barisan depan 1, Knalpot 8 (sementara) |

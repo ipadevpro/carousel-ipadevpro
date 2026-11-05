@@ -5,9 +5,9 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 
 | Tayang IG | Jalur | Judul/topik | Views Threads | Reach/Impr. IG | Likes | Komentar | Saves | Shares | Catatan |
 |---|---|---|---|---|---|---|---|---|---|
-| 2026-11-02 20:45 | A | Faring (Duri Ikan) | 194.000 (212.766 per 2026-11-05) | reach 11.312 / views 19.422 | 224 | 8 | 167 | 72 | carousel pertama; 11 follows; metrik per 2026-11-04 13:41 WIB (diperbarui dari angka 3 Nov) |
-| 2026-11-03 20:13 | B | Anak di barisan depan | - | reach 2.124 / views 4.055 | 93 | 0 | 20 | 7 | jalur B pertama; 0 follows; metrik per 2026-11-04 13:41 WIB |
-| 2026-11-04 05:37 | A | Pacet / Hirudin | 39.627 | menunggu (belum 24 jam saat run 5 Nov 05:13 WIB) | | | | | dijadwalkan ulang 05:37 karena jam 06:47 sudah lewat; angka sementara 4 Nov 13:41 WIB: reach 7.416 / views 12.781, 202 likes, 6 komentar, 117 saves, 28 shares, 8 follows |
+| 2026-11-02 20:45 | A | Faring (Duri Ikan) | 194.000 (212.828 per 2026-11-06) | reach 65.318 / views 99.516 | 621 | 66 | 656 | 441 | carousel pertama; 54 follows; metrik per 2026-11-06 05:14 WIB (diperbarui) |
+| 2026-11-03 20:13 | B | Anak di barisan depan | - | reach 4.157 / views 7.219 | 136 | 1 | 33 | 7 | jalur B pertama; 1 follow; metrik per 2026-11-06 05:14 WIB (diperbarui) |
+| 2026-11-04 05:37 | A | Pacet / Hirudin | 39.627 | reach 20.528 / views 32.153 | 310 | 14 | 205 | 83 | dijadwalkan ulang 05:37 karena jam 06:47 sudah lewat; 25 follows; metrik per 2026-11-06 05:14 WIB |
 
 ## Reels (dibuat di luar pipeline, hanya dicatat)
 
@@ -28,7 +28,8 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-10-31 19:00 | Charger dibiarkan nyolok tanpa HP, bikin token cepat habis? | 1781 | 2167 | 47 | 0 | 9 | 6 | metrik per 2026-11-03 13:41 WIB |
 | 2026-11-01 19:00 | Tidur pakai kipas semalaman bikin paru-paru basah? | 769 | 1174 | 19 | 0 | 10 | 6 | metrik per 2026-11-03 13:41 WIB |
 | 2026-11-02 19:00 | Kopi sachet kok larut tanpa ampas? | 1850 | 2191 | 67 | 0 | 4 | 3 | metrik per 2026-11-03 13:41 WIB |
-| 2026-11-03 19:00 | Minyak jelantah dijernihkan pakai nasi, aman dipak... | 1637 | 1963 | 57 | 0 | 4 | 2 | metrik per 2026-11-04 13:41 WIB |
+| 2026-11-03 19:00 | Minyak jelantah dijernihkan pakai nasi, aman dipak... | 1775 | 2125 | 62 | 0 | 8 | 2 | metrik per 2026-11-06 05:14 WIB (diperbarui) |
+| 2026-11-04 19:00 | Susu kental manis itu susu atau gula? | 234 | 331 | 4 | 0 | 0 | 0 | metrik per 2026-11-06 05:14 WIB; reach terendah di antara Reels terbaru |
 
 ## Ringkasan mingguan (diisi tiap Senin)
 
@@ -50,3 +51,4 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 
 - 2026-11-03 jalur A: Pacet / Hirudin (thread 39.605 views). Jam 06:47 sudah lewat saat run ini membuat post, jadi dijadwalkan 2026-11-04 05:37 WIB (2 jam dari sekarang). Jalur B 2026-11-03 sudah ada di log (Anak di barisan depan), tidak dibuat ulang.
 
+- 2026-11-06: jalur A Minyak Tanah / hidrokarbon (thread 18.894 views, tayang 06:47 WIB). Jalur B murid yang lupa bawa buku (tayang 20:13 WIB). Carousel Knalpot (5 Nov 06:47) dan Terlambat (5 Nov 20:13) belum 24 jam saat run ini (05:14 WIB), dicatat besok. Angka sementara Knalpot: reach 1.251 / views 2.336, 25 likes, 13 saves, 6 shares, 8 follows. Reel 5 Nov 19:00 (dokter penyelamat ibu) baru 10 jam, dicatat besok. Bukan hari Senin, ringkasan mingguan tidak dibuat.

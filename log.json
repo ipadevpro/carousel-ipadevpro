@@ -44,6 +44,24 @@
       "ig_scheduled_at": "2026-11-05T20:13:00+07:00",
       "ig_buffer_post_id": "6aebaf3e1965695985249467",
       "folder": "2026-11-05-buku-murid-terlambat"
+    },
+    {
+      "date": "2026-11-06",
+      "track": "A",
+      "thread_title": "Minyak Tanah / Hidrokarbon",
+      "thread_buffer_post_id": "6aea5b24402e0fe50f176493",
+      "thread_views_at_conversion": 18894,
+      "ig_scheduled_at": "2026-11-06T06:47:00+07:00",
+      "ig_buffer_post_id": "6aed00ec265cb90551deb2b3",
+      "folder": "2026-11-06-minyak-tanah"
+    },
+    {
+      "date": "2026-11-06",
+      "track": "B",
+      "topic": "Murid yang lupa bawa buku: mungkin ia tidak punya tempat menyimpannya",
+      "ig_scheduled_at": "2026-11-06T20:13:00+07:00",
+      "ig_buffer_post_id": "6aed00ecaa25a700b8db0eec",
+      "folder": "2026-11-06-buku-lupa-bawa"
     }
   ]
 }
