@@ -8,6 +8,8 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-11-02 20:45 | A | Faring (Duri Ikan) | 194.000 (212.828 per 2026-11-06) | reach 65.318 / views 99.516 | 621 | 66 | 656 | 441 | carousel pertama; 54 follows; metrik per 2026-11-06 05:14 WIB (diperbarui) |
 | 2026-11-03 20:13 | B | Anak di barisan depan | - | reach 4.157 / views 7.219 | 136 | 1 | 33 | 7 | jalur B pertama; 1 follow; metrik per 2026-11-06 05:14 WIB (diperbarui) |
 | 2026-11-04 05:37 | A | Pacet / Hirudin | 39.627 | reach 20.528 / views 32.153 | 310 | 14 | 205 | 83 | dijadwalkan ulang 05:37 karena jam 06:47 sudah lewat; 25 follows; metrik per 2026-11-06 05:14 WIB |
+| 2026-11-05 06:47 | A | Knalpot / Epidermis | 21.269 | reach 4.243 / views 6.839 | 68 | 3 | 43 | 49 | 22 follows; metrik per 2026-11-07 05:14 WIB |
+| 2026-11-05 20:13 | B | Murid yang selalu terlambat | - | reach 889 / views 1.622 | 12 | 0 | 6 | 0 | 0 follows; reach terendah di antara carousel; metrik per 2026-11-07 05:14 WIB |
 
 ## Reels (dibuat di luar pipeline, hanya dicatat)
 
@@ -30,6 +32,7 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-11-02 19:00 | Kopi sachet kok larut tanpa ampas? | 1850 | 2191 | 67 | 0 | 4 | 3 | metrik per 2026-11-03 13:41 WIB |
 | 2026-11-03 19:00 | Minyak jelantah dijernihkan pakai nasi, aman dipak... | 1775 | 2125 | 62 | 0 | 8 | 2 | metrik per 2026-11-06 05:14 WIB (diperbarui) |
 | 2026-11-04 19:00 | Susu kental manis itu susu atau gula? | 234 | 331 | 4 | 0 | 0 | 0 | metrik per 2026-11-06 05:14 WIB; reach terendah di antara Reels terbaru |
+| 2026-11-05 19:00 | Dokter yang menyelamatkan ribuan ibu ini justru me... | 1350 | 1609 | 59 | 1 | 5 | 4 | metrik per 2026-11-07 05:14 WIB; rata-rata tonton 16,9 detik |
 
 ## Ringkasan mingguan (diisi tiap Senin)
 
@@ -52,3 +55,5 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 - 2026-11-03 jalur A: Pacet / Hirudin (thread 39.605 views). Jam 06:47 sudah lewat saat run ini membuat post, jadi dijadwalkan 2026-11-04 05:37 WIB (2 jam dari sekarang). Jalur B 2026-11-03 sudah ada di log (Anak di barisan depan), tidak dibuat ulang.
 
 - 2026-11-06: jalur A Minyak Tanah / hidrokarbon (thread 18.894 views, tayang 06:47 WIB). Jalur B murid yang lupa bawa buku (tayang 20:13 WIB). Carousel Knalpot (5 Nov 06:47) dan Terlambat (5 Nov 20:13) belum 24 jam saat run ini (05:14 WIB), dicatat besok. Angka sementara Knalpot: reach 1.251 / views 2.336, 25 likes, 13 saves, 6 shares, 8 follows. Reel 5 Nov 19:00 (dokter penyelamat ibu) baru 10 jam, dicatat besok. Bukan hari Senin, ringkasan mingguan tidak dibuat.
+
+- 2026-11-07 (Sabtu): jalur A Bruksisme tidur / Otot Masseter (thread 22.011 views, tayang 06:47 WIB). Jalur B murid yang dicap nakal (tayang 20:13 WIB). Carousel Minyak Tanah (6 Nov 06:47), Lupa bawa buku (6 Nov 20:13), dan Reel kipas/pompa/mesin cuci (6 Nov 19:04) belum 24 jam saat run ini, dicatat besok. Angka sementara Minyak Tanah: reach 2.033 / views 3.745, 37 likes, 14 saves, 12 shares. Bukan Senin, ringkasan mingguan tidak dibuat. Pengamatan: Knalpot (jalur A) reach 4.243 vs Terlambat (jalur B) 889, jalur A masih jauh di atas jalur B.
