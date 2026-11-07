@@ -80,6 +80,24 @@
       "ig_scheduled_at": "2026-11-07T20:13:00+07:00",
       "ig_buffer_post_id": "6aee5292d6bbae6fa14e59dc",
       "folder": "2026-11-07-buku-dicap-nakal"
+    },
+    {
+      "date": "2026-11-08",
+      "track": "A",
+      "thread_title": "Sentakan Hipnik / Si Jurang Palsu",
+      "thread_buffer_post_id": "6aee5087af7e526d43e55efa",
+      "thread_views_at_conversion": 32299,
+      "ig_scheduled_at": "2026-11-08T06:47:00+07:00",
+      "ig_buffer_post_id": "6aefa3b8229bf05daf78927a",
+      "folder": "2026-11-08-sentakan-hipnik"
+    },
+    {
+      "date": "2026-11-08",
+      "track": "B",
+      "topic": "Sapaan di gerbang pagi: hal kecil yang mungkin jadi alasan seorang anak tetap datang",
+      "ig_scheduled_at": "2026-11-08T20:13:00+07:00",
+      "ig_buffer_post_id": "6aefa3b9004e4879a781c08c",
+      "folder": "2026-11-08-buku-sapaan-gerbang"
     }
   ]
 }
