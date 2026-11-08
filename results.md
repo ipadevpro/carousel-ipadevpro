@@ -12,6 +12,8 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-11-05 20:13 | B | Murid yang selalu terlambat | - | reach 889 / views 1.622 | 12 | 0 | 6 | 0 | 0 follows; reach terendah di antara carousel; metrik per 2026-11-07 05:14 WIB |
 | 2026-11-06 06:47 | A | Minyak Tanah / Hidrokarbon | 18.915 | reach 3.636 / views 6.404 | 48 | 0 | 19 | 14 | 0 follows; metrik per 2026-11-08 05:2x WIB |
 | 2026-11-06 20:13 | B | Murid yang lupa bawa buku | - | reach 866 / views 1.662 | 14 | 0 | 3 | 1 | 0 follows; reach mirip jalur B lain; metrik per 2026-11-08 05:2x WIB |
+| 2026-11-07 06:47 | A | Gigi menggertak / Otot Masseter | 22.039 | reach 898 / views 1.746 | 5 | 0 | 4 | 10 | 0 follows; reach terendah di antara carousel A; metrik per 2026-11-08 13:41 WIB |
+| 2026-11-07 20:13 | B | Murid yang dicap nakal | - | reach 527 / views 1.088 | 5 | 0 | 6 | 0 | 0 follows; reach terendah jalur B; metrik per 2026-11-08 13:41 WIB |
 
 ## Reels (dibuat di luar pipeline, hanya dicatat)
 
@@ -51,6 +53,19 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 - Perubahan followers: belum ada angka terbaru dari Devi (patokan awal 29.900 pada 2 Nov, patokan 9 Nov 40.000).
 - Rekomendasi: perbanyak Carousel A (konversi thread viral). Satu sampel, tetapi reach sekitar 2,4 kali rata-rata Reels dan saves sekitar 7 kali. Tunggu data Carousel B sebelum menilai jalur B.
 
+### Senin, 2026-11-09 (periode 2 Nov sampai 8 Nov, WIB; hanya konten yang sudah tayang 24 jam atau lebih)
+
+| Format | Jumlah | Rata-rata reach | Rata-rata saves | Rata-rata shares | Rata-rata komentar |
+|---|---|---|---|---|---|
+| Reels | 5 | 1.361 | 4,8 | 2,2 | 0,2 |
+| Carousel A | 5 (Faring, Pacet, Knalpot, Minyak Tanah, Gigi) | 20.266 (9.003 tanpa Faring) | 197 (83 tanpa Faring) | 129 (51 tanpa Faring) | 17 (4,8 tanpa Faring) |
+| Carousel B | 4 (Barisan depan, Terlambat, Lupa buku, Dicap nakal) | 1.952 (1.280 tanpa Barisan depan) | 13,2 | 2,2 | 0,2 |
+
+- 3 konten terbaik (reach): Carousel A Faring 65.318 (656 saves, 441 shares); Carousel A Pacet 25.047 (248 saves, 125 shares, 38 follows); Carousel A Knalpot 5.968 (57 saves, 56 shares, 25 follows).
+- Perubahan followers: tidak ada tool yang menampilkan jumlah followers, dan Devi belum mengirim angka sejak patokan 29.900 (2 Nov). Posisi terhadap patokan 9 Nov (40.000) tidak bisa dinilai; follows dari carousel menurut Buffer hanya sekitar 115 sepanjang minggu (Faring 90, Pacet 38, Knalpot 25, barisan depan 1, lainnya 0).
+- Catatan: metrik Buffer terakhir diperbarui 8 Nov 13:41 WIB. Reels 7 dan 8 Nov tidak ditemukan di Buffer (tidak ada Reel baru sejak 6 Nov). Sentakan Hipnik (8 Nov 06:47) baru sekitar 22 jam, angka sementara reach 3.154 / views 5.368, 37 saves, 30 shares, dicatat besok.
+- Rekomendasi: perbanyak Carousel A, tetapi pilih thread sumber yang views-nya sangat tinggi (di atas 25.000) dan topiknya luas. Reach carousel A turun tajam begitu views thread sumber di bawah sekitar 25.000 (Gigi 22.039 views thread hanya reach 898), jadi topik jenuh tidur/gigi sebaiknya jangan diulang beruntun. Jalur B stabil di reach rendah (500 sampai 1.300) dan nyaris tanpa follows; pertahankan sebagai jalur brand dan buku, bukan penambah followers. Karena target 100 ribu followers, kejar format dengan shares tertinggi (carousel A) dan minta Devi mengirim angka followers setiap hari agar rekomendasi bisa diuji.
+
 ## Catatan jalur
 
 - 2026-11-05: tidak ada carousel 2026-11-04 di log.json (run 4 Nov tidak tercatat), tidak dibuat susulan. Jalur A: Knalpot / Epidermis (thread 21.266 views, dijadwalkan 06:47 WIB). Jalur B: murid yang selalu terlambat (20:13 WIB). Tidak ada Reel terkirim 4 Nov di Buffer; Reels terjadwal berikutnya 6 Nov 19:00 WIB (3D motor), lalu 24, 25, 28 Nov. Thread Pacet sumber diperbarui 39.627 views.
@@ -62,3 +77,5 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 - 2026-11-07 (Sabtu): jalur A Bruksisme tidur / Otot Masseter (thread 22.011 views, tayang 06:47 WIB). Jalur B murid yang dicap nakal (tayang 20:13 WIB). Carousel Minyak Tanah (6 Nov 06:47), Lupa bawa buku (6 Nov 20:13), dan Reel kipas/pompa/mesin cuci (6 Nov 19:04) belum 24 jam saat run ini, dicatat besok. Angka sementara Minyak Tanah: reach 2.033 / views 3.745, 37 likes, 14 saves, 12 shares. Bukan Senin, ringkasan mingguan tidak dibuat. Pengamatan: Knalpot (jalur A) reach 4.243 vs Terlambat (jalur B) 889, jalur A masih jauh di atas jalur B.
 
 - 2026-11-08 (Minggu): jalur A Sentakan Hipnik / Si Jurang Palsu (thread 32.299 views, tayang 06:47 WIB). Jalur B sapaan di gerbang pagi (tayang 20:13 WIB). Dicatat hari ini: Minyak Tanah, Lupa bawa buku, Reel kipas/pompa/mesin cuci (semua sudah lewat 24 jam). Gigi menggertak (7 Nov 06:47) baru sekitar 22 jam, angka sementara reach 518 / views 958, 3 likes, 1 save, 3 shares, 0 follows; dicatat besok bersama Dicap nakal (7 Nov 20:13). Bukan Senin, ringkasan mingguan tidak dibuat (berikutnya Senin 9 Nov). Pengamatan: reach carousel A turun tiap hari (Pacet 23.698, Knalpot 5.409, Minyak Tanah 3.636, Gigi sementara 518) walau views thread sumber naik; format yang sama mulai jenuh, perlu dipantau di ringkasan Senin.
+
+- 2026-11-09 (Senin): jalur A Ketindihan / Atonia Tidur REM (thread 29.082 views, tayang 06:47 WIB). Jalur B nada suara saat menegur (tayang 20:13 WIB). Dicatat hari ini: Gigi menggertak dan Dicap nakal. Sentakan Hipnik (8 Nov 06:47) baru sekitar 22 jam, Sapaan di gerbang (8 Nov 20:13) belum 24 jam; keduanya dicatat besok. Tidak ada Reel baru untuk dicatat. Ringkasan mingguan ditulis di atas. Tanggal run: sesi mulai 05:13 WIB, jadi tanggal WIB hari ini 9 Nov.

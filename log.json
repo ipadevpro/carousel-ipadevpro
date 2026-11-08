@@ -98,6 +98,24 @@
       "ig_scheduled_at": "2026-11-08T20:13:00+07:00",
       "ig_buffer_post_id": "6aefa3b9004e4879a781c08c",
       "folder": "2026-11-08-buku-sapaan-gerbang"
+    },
+    {
+      "date": "2026-11-09",
+      "track": "A",
+      "thread_title": "Ketindihan / Atonia Tidur REM (Si Pengunci Otot)",
+      "thread_buffer_post_id": "6aecfebe265cb90551de151f",
+      "thread_views_at_conversion": 29082,
+      "ig_scheduled_at": "2026-11-09T06:47:00+07:00",
+      "ig_buffer_post_id": "6af0f4e99214322f687d6095",
+      "folder": "2026-11-09-ketindihan"
+    },
+    {
+      "date": "2026-11-09",
+      "track": "B",
+      "topic": "Nada suara saat menegur: anak mungkin ingat nadanya lebih lama dari isinya",
+      "ig_scheduled_at": "2026-11-09T20:13:00+07:00",
+      "ig_buffer_post_id": "6af0f4ea562f2e6de9e60ff8",
+      "folder": "2026-11-09-buku-nada-teguran"
     }
   ]
 }
