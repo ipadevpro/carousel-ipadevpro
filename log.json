@@ -116,6 +116,24 @@
       "ig_scheduled_at": "2026-11-09T20:13:00+07:00",
       "ig_buffer_post_id": "6af0f4ea562f2e6de9e60ff8",
       "folder": "2026-11-09-buku-nada-teguran"
+    },
+    {
+      "date": "2026-11-10",
+      "track": "A",
+      "thread_title": "Bisa Lipan / Gigitan lipan (Si Api di Ujung Taring)",
+      "thread_buffer_post_id": "6aee5087229bf05daf1206a8",
+      "thread_views_at_conversion": 10808,
+      "ig_scheduled_at": "2026-11-10T06:47:00+07:00",
+      "ig_buffer_post_id": "6af24735718d70ae70a954b7",
+      "folder": "2026-11-10-lipan"
+    },
+    {
+      "date": "2026-11-10",
+      "track": "B",
+      "topic": "Murid pendiam di kerja kelompok: beri peran, bukan sekadar nama di daftar",
+      "ig_scheduled_at": "2026-11-10T20:13:00+07:00",
+      "ig_buffer_post_id": "6af24736aec4ecc080c4ca15",
+      "folder": "2026-11-10-buku-peran-kelompok"
     }
   ]
 }
