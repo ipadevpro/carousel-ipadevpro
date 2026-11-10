@@ -134,6 +134,24 @@
       "ig_scheduled_at": "2026-11-10T20:13:00+07:00",
       "ig_buffer_post_id": "6af24736aec4ecc080c4ca15",
       "folder": "2026-11-10-buku-peran-kelompok"
+    },
+    {
+      "date": "2026-11-11",
+      "track": "A",
+      "thread_title": "Kapsaisin / Cabai (Si Api Tanpa Api)",
+      "thread_buffer_post_id": "6af244c42720157e37354f86",
+      "thread_views_at_conversion": 7583,
+      "ig_scheduled_at": "2026-11-11T06:47:00+07:00",
+      "ig_buffer_post_id": "6af39996a5cf8ae8beff6b0e",
+      "folder": "2026-11-11-kapsaisin"
+    },
+    {
+      "date": "2026-11-11",
+      "track": "B",
+      "topic": "Pujian untuk usaha, bukan hanya nilai",
+      "ig_scheduled_at": "2026-11-11T20:13:00+07:00",
+      "ig_buffer_post_id": "6af39997e001088fbc797caa",
+      "folder": "2026-11-11-buku-pujian-usaha"
     }
   ]
 }

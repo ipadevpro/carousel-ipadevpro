@@ -11,7 +11,7 @@ Tandai [x] setelah dipakai, beserta tanggal.
 - [x] (2026-11-08) Sapaan di gerbang pagi: hal kecil yang mungkin jadi alasan seorang anak tetap datang
 - [x] (2026-11-09) Nada suara saat menegur: anak ingat cara kita bicara lebih lama dari isi tegurannya
 - [x] (2026-11-10) Murid pendiam di kerja kelompok: beri peran, bukan sekadar nama di daftar
-- [ ] Pujian untuk usaha, bukan hanya nilai: anak yang nilainya biasa juga butuh dirayakan
+- [x] (2026-11-11) Pujian untuk usaha, bukan hanya nilai: anak yang nilainya biasa juga butuh dirayakan
 - [ ] Murid yang selalu bilang "tidak apa-apa, Pak/Bu": belajar membaca yang tidak diucapkan
 - [ ] Guru juga boleh minta maaf pada murid: itu tidak mengurangi wibawa
 - [ ] Murid yang nilainya kecil tapi hatinya besar: rapor tidak mengukur semuanya

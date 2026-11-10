@@ -16,6 +16,8 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-11-07 20:13 | B | Murid yang dicap nakal | - | reach 527 / views 1.088 | 5 | 0 | 6 | 0 | 0 follows; reach terendah jalur B; metrik per 2026-11-08 13:41 WIB |
 | 2026-11-08 06:47 | A | Sentakan Hipnik / Si Jurang Palsu | 73.422 (32.299 saat dikonversi) | reach 8.660 / views 14.053 | 117 | 0 | 88 | 71 | 2 follows; reach tertinggi ketiga setelah Faring dan Pacet; metrik per 2026-11-10 04:21 WIB |
 | 2026-11-08 20:13 | B | Sapaan di gerbang pagi | - | reach 631 / views 1.264 | 8 | 0 | 2 | 0 | 0 follows; metrik per 2026-11-10 04:21 WIB |
+| 2026-11-09 06:47 | A | Ketindihan / Atonia Tidur REM | 29.082 (saat dikonversi) | reach 1.390 / views 2.423 | 25 | 0 | 18 | 11 | 0 follows; metrik per 2026-11-11 05:2x WIB |
+| 2026-11-09 20:13 | B | Nada suara saat menegur | - | reach 609 / views 1.155 | 9 | 0 | 5 | 1 | 0 follows; metrik per 2026-11-11 05:2x WIB |
 
 ## Reels (dibuat di luar pipeline, hanya dicatat)
 
@@ -40,6 +42,7 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-11-04 19:00 | Susu kental manis itu susu atau gula? | 234 | 331 | 4 | 0 | 0 | 0 | metrik per 2026-11-06 05:14 WIB; reach terendah di antara Reels terbaru |
 | 2026-11-05 19:00 | Dokter yang menyelamatkan ribuan ibu ini justru me... | 1350 | 1609 | 59 | 1 | 5 | 4 | metrik per 2026-11-07 05:14 WIB; rata-rata tonton 16,9 detik |
 | 2026-11-06 19:04 | Kipas angin, pompa air, mesin cuci. Di dalamnya ada... | 1.297 | 1.494 | 40 | 0 | 6 | 2 | metrik per 2026-11-08 05:2x WIB; rata-rata tonton 15,1 detik |
+| 2026-11-09 15:01 | Benarkah wajib 8 gelas air sehari? | 1.347 | 1.538 | 33 | 0 | 2 | 4 | metrik per 2026-11-11 05:2x WIB |
 
 ## Ringkasan mingguan (diisi tiap Senin)
 
@@ -83,3 +86,5 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 - 2026-11-09 (Senin): jalur A Ketindihan / Atonia Tidur REM (thread 29.082 views, tayang 06:47 WIB). Jalur B nada suara saat menegur (tayang 20:13 WIB). Dicatat hari ini: Gigi menggertak dan Dicap nakal. Sentakan Hipnik (8 Nov 06:47) baru sekitar 22 jam, Sapaan di gerbang (8 Nov 20:13) belum 24 jam; keduanya dicatat besok. Tidak ada Reel baru untuk dicatat. Ringkasan mingguan ditulis di atas. Tanggal run: sesi mulai 05:13 WIB, jadi tanggal WIB hari ini 9 Nov.
 
 - 2026-11-10 (Selasa, tanggal WIB; sesi mulai 05:14 WIB): jalur A Gigitan lipan / Bisa Lipan (thread 10.808 views, tayang 06:47 WIB). Tiga thread teratas yang belum dipakai: lipan 10.808, mandi malam 6.134, tidur mata terbuka 3.688. Lipan dipilih karena views tertinggi dan topiknya bukan tidur, jadi tidak jenuh beruntun. Jalur B murid pendiam di kerja kelompok (tayang 20:13 WIB). Dicatat hari ini: Sentakan Hipnik dan Sapaan di gerbang. Ketindihan (9 Nov 06:47) baru sekitar 22 jam, angka sementara reach 1.220 / views 2.173, 24 likes, 18 saves, 8 shares, 0 follows. Nada teguran (9 Nov 20:13) belum 24 jam, sementara reach 373. Reel "8 gelas air" (9 Nov 15:00 WIB) belum 24 jam, sementara reach 1.301 / views 1.458, 32 likes, 2 saves, 4 shares; dicatat besok. Pengamatan: Sentakan Hipnik (views thread sumber naik jadi 73 ribu) reach 8.660, sedangkan Ketindihan (thread 29 ribu) sementara hanya 1.220, jadi views thread saja bukan prediktor tunggal. Bukan Senin, ringkasan mingguan tidak dibuat.
+
+- 2026-11-11 (Rabu, tanggal WIB; sesi mulai 05:19 WIB): jalur A Kapsaisin / cabai (thread 7.583 views, tayang 06:47 WIB; dipilih karena views tertinggi yang belum dipakai dan topiknya baru, bukan tidur). Jalur B pujian untuk usaha (tayang 20:13 WIB). Dicatat hari ini: Ketindihan, Nada teguran, Reel 8 gelas air. Lipan (10 Nov 06:47) baru sekitar 22,5 jam, angka sementara reach 889 / views 1.726, 13 likes, 4 saves, 5 shares, 2 follows; Peran kelompok (10 Nov 20:13) belum 24 jam, sementara reach 268. Tidak ada Reel baru sejak 8 gelas air. Bukan Senin, ringkasan mingguan tidak dibuat (berikutnya Senin 16 Nov). Pengamatan: Ketindihan (thread 29 ribu) hanya reach 1.390 dan hampir sama dengan reach Reel, jadi jalur A di luar topik viral tidur tidak lagi jauh di atas Reels.
