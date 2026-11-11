@@ -152,6 +152,24 @@
       "ig_scheduled_at": "2026-11-11T20:13:00+07:00",
       "ig_buffer_post_id": "6af39997e001088fbc797caa",
       "folder": "2026-11-11-buku-pujian-usaha"
+    },
+    {
+      "date": "2026-11-12",
+      "track": "A",
+      "thread_title": "Hormon Pertumbuhan / Si Pekerja Malam (palang peninggi badan)",
+      "thread_buffer_post_id": "6af39603e001088fbc785507",
+      "thread_views_at_conversion": 22124,
+      "ig_scheduled_at": "2026-11-12T06:47:00+07:00",
+      "ig_buffer_post_id": "PENDING_A",
+      "folder": "2026-11-12-hormon-pertumbuhan"
+    },
+    {
+      "date": "2026-11-12",
+      "track": "B",
+      "topic": "Murid yang selalu bilang \"tidak apa-apa\": belajar membaca yang tidak diucapkan",
+      "ig_scheduled_at": "2026-11-12T20:13:00+07:00",
+      "ig_buffer_post_id": "PENDING_B",
+      "folder": "2026-11-12-buku-tidak-apa-apa"
     }
   ]
 }
