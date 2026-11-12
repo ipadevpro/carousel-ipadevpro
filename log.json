@@ -170,6 +170,24 @@
       "ig_scheduled_at": "2026-11-12T20:13:00+07:00",
       "ig_buffer_post_id": "6af4ea248a1a2f52b507c26d",
       "folder": "2026-11-12-buku-tidak-apa-apa"
+    },
+    {
+      "date": "2026-11-13",
+      "track": "A",
+      "thread_title": "Minyak Sawit / Si Penyamar Jadi Lilin (mi instan berlilin)",
+      "thread_buffer_post_id": "6af39656e001088fbc787894",
+      "thread_views_at_conversion": 37160,
+      "ig_scheduled_at": "2026-11-13T06:47:00+07:00",
+      "ig_buffer_post_id": "6af63b955a9bb9ae84c2a8bb",
+      "folder": "2026-11-13-minyak-sawit"
+    },
+    {
+      "date": "2026-11-13",
+      "track": "B",
+      "topic": "Guru juga boleh minta maaf pada murid: itu tidak mengurangi wibawa",
+      "ig_scheduled_at": "2026-11-13T20:13:00+07:00",
+      "ig_buffer_post_id": "6af63b95bcc05bf8b96899b1",
+      "folder": "2026-11-13-buku-guru-minta-maaf"
     }
   ]
 }
