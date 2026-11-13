@@ -188,6 +188,24 @@
       "ig_scheduled_at": "2026-11-13T20:13:00+07:00",
       "ig_buffer_post_id": "6af63b95bcc05bf8b96899b1",
       "folder": "2026-11-13-buku-guru-minta-maaf"
+    },
+    {
+      "date": "2026-11-14",
+      "track": "A",
+      "thread_title": "Leptin / Si Pelapor Cadangan (haid lebih cepat bukan karena ayam suntikan hormon)",
+      "thread_buffer_post_id": "6af4e782304f8985c46a75a6",
+      "thread_views_at_conversion": 74054,
+      "ig_scheduled_at": "2026-11-14T06:47:00+07:00",
+      "ig_buffer_post_id": "6af78d37d16af15d4dd83a56",
+      "folder": "2026-11-14-leptin"
+    },
+    {
+      "date": "2026-11-14",
+      "track": "B",
+      "topic": "Murid yang nilainya kecil tapi hatinya besar: rapor tidak mengukur semuanya",
+      "ig_scheduled_at": "2026-11-14T20:13:00+07:00",
+      "ig_buffer_post_id": "6af78d374b28296eb11bedab",
+      "folder": "2026-11-14-buku-nilai-kecil"
     }
   ]
 }

@@ -14,7 +14,7 @@ Tandai [x] setelah dipakai, beserta tanggal.
 - [x] (2026-11-11) Pujian untuk usaha, bukan hanya nilai: anak yang nilainya biasa juga butuh dirayakan
 - [x] (2026-11-12) Murid yang selalu bilang "tidak apa-apa, Pak/Bu": belajar membaca yang tidak diucapkan
 - [x] (2026-11-13) Guru juga boleh minta maaf pada murid: itu tidak mengurangi wibawa
-- [ ] Murid yang nilainya kecil tapi hatinya besar: rapor tidak mengukur semuanya
+- [x] (2026-11-14) Murid yang nilainya kecil tapi hatinya besar: rapor tidak mengukur semuanya
 - [ ] Satu kalimat guru yang bisa terbawa sampai dewasa: pilih kata dengan sadar
 - [ ] Anak yang tidak pernah dijemput: siapa yang menunggu bersamanya?
 - [ ] Hari terakhir sekolah: murid yang paling diam sering paling sulit berpamitan

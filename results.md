@@ -22,6 +22,8 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-11-10 20:13 | B | Murid pendiam di kerja kelompok | - | reach 411 / views 791 | 4 | 0 | 1 | 0 | 0 follows; reach terendah jalur B; metrik per 2026-11-12 02:21 WIB |
 | 2026-11-11 06:47 | A | Kapsaisin / cabai | 7.583 (7.583 saat dikonversi) | reach 1.251 / views 2.213 | 14 | 0 | 15 | 17 | 4 follows; thread sumber kecil tapi saves dan shares per reach tinggi; metrik per 2026-11-13 01:21 WIB |
 | 2026-11-11 20:13 | B | Pujian untuk usaha, bukan hanya nilai | - | reach 515 / views 972 | 23 | 1 | 8 | 4 | 0 follows; saves 8 tertinggi di jalur B sejak barisan depan; metrik per 2026-11-13 01:21 WIB |
+| 2026-11-12 06:47 | A | Hormon Pertumbuhan / Si Pekerja Malam (palang peninggi badan) | 40.767 (22.124 saat dikonversi) | reach 36.067 / views 55.552 | 623 | 7 | 525 | 969 | 70 follows; reach tertinggi kedua setelah Faring, shares per reach tertinggi; metrik per 2026-11-14 00:21 WIB |
+| 2026-11-12 20:13 | B | Murid yang selalu bilang "tidak apa-apa" | - | reach 258 / views 552 | 6 | 0 | 0 | 1 | 0 follows; reach terendah jalur B; metrik per 2026-11-14 00:21 WIB |
 
 ## Reels (dibuat di luar pipeline, hanya dicatat)
 
@@ -49,6 +51,7 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 | 2026-11-09 15:01 | Benarkah wajib 8 gelas air sehari? | 1.347 | 1.538 | 33 | 0 | 2 | 4 | metrik per 2026-11-11 05:2x WIB |
 | 2026-11-11 10:03 | Kenapa tanah wangi saat hujan? | 903 | 1.083 | 62 | 0 | 3 | 2 | metrik per 2026-11-13 01:21 WIB; rata-rata tonton 9,0 detik |
 | 2026-11-11 17:02 | Nasi sisa semalam: dipanaskan atau dibuang? | 1.271 | 1.492 | 35 | 1 | 5 | 6 | metrik per 2026-11-13 01:21 WIB; rata-rata tonton 12,6 detik |
+| 2026-11-12 15:00 | Air di tatakan pot: dibuang atau ditutup pasir? | 288 | 347 | 3 | 0 | 1 | 0 | metrik per 2026-11-14 00:21 WIB; rata-rata tonton 7,9 detik; reach terendah di antara Reels terbaru |
 
 ## Ringkasan mingguan (diisi tiap Senin)
 
@@ -99,3 +102,5 @@ Satu baris per carousel, diisi otomatis setelah carousel tayang minimal 24 jam. 
 
 
 - 2026-11-13 (Jumat, tanggal WIB; sesi mulai 05:14 WIB, catatan: tanggal sistem masih 12 Nov UTC, tetapi log menunjukkan jalur 12 Nov sudah ada, jadi yang dikerjakan adalah 13 Nov): jalur A Minyak Sawit / Si Penyamar Jadi Lilin (thread mi instan berlilin 37.160 views, tayang 06:47 WIB; views tertinggi yang belum dipakai, topik baru). Jalur B guru juga boleh minta maaf pada murid (tayang 20:13 WIB). Dicatat hari ini: Kapsaisin, Pujian usaha, Reel "Hujan wangi tanah", Reel "Nasi sisa semalam". Belum 24 jam saat run ini: Hormon Pertumbuhan (12 Nov 06:47) sementara reach 23.838 / views 36.678, 349 likes, 265 saves, 558 shares, 38 follows, terbaik kemarin dan hampir setara Pacet; Tidak apa-apa (12 Nov 20:13) sementara reach 161; Reel "Tatakan pot" (12 Nov 15:00 WIB) sementara reach 248 / views 307. Ketiganya dicatat besok. Metrik Buffer terakhir diperbarui 12 Nov 18:21 UTC (sekitar 11 jam sebelum run ini). Bukan Senin, ringkasan mingguan tidak dibuat (berikutnya Senin 16 Nov). Pengamatan: Hormon Pertumbuhan (thread sumber 22 ribu) jauh di atas Kapsaisin (7,6 ribu) dan Lipan (10,8 ribu); topik tubuh anak/remaja dengan mitos yang dipercaya luas (tinggi badan) tampak menarik shares, jadi pilih topik serupa.
+
+- 2026-11-14 (Sabtu, tanggal WIB; sesi mulai 05:15 WIB, tanggal sistem masih 13 Nov UTC): jalur A Leptin / Si Pelapor Cadangan (thread "haid lebih cepat bukan karena ayam suntikan hormon" 74.054 views, tayang 06:47 WIB; views tertinggi yang belum dipakai, mitos tubuh remaja dengan pola sama seperti Hormon Pertumbuhan). Jalur B murid yang nilainya kecil tapi hatinya besar (tayang 20:13 WIB). Dicatat hari ini: Hormon Pertumbuhan, Tidak apa-apa, Reel tatakan pot. Belum 24 jam saat run ini: Minyak Sawit (13 Nov 06:47) sementara reach 623 / views 1.058, 6 likes, 5 saves, 0 shares, 0 follows (jauh di bawah Hormon Pertumbuhan walau thread sumber 37 ribu); Guru minta maaf (13 Nov 20:13) sementara reach 340; Reel jari keriput (13 Nov 10:00 WIB) sementara reach 1.288 / views 1.485, 72 likes, 5 saves, 1 share. Ketiganya dicatat besok. Metrik Buffer terakhir diperbarui 14 Nov 00:21 WIB. Bukan Senin, ringkasan mingguan tidak dibuat (berikutnya Senin 16 Nov). Pengamatan: konten terbaik kemarin Hormon Pertumbuhan (reach 36.067, 70 follows, 969 shares), sedangkan Minyak Sawit (mitos makanan) sangat jauh di bawahnya; topik tubuh anak dan remaja yang menyangkut orang tua tampak lebih menarik shares daripada mitos dapur.
