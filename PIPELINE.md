@@ -36,8 +36,13 @@ Sebelum membuat post, cek log.json: kalau tanggal+jalur (A, A2, B, C) sudah ada,
 - Caption: 2-3 kalimat pengantar, tiga trik dalam satu baris masing-masing, ajakan simpan dan kirim ke rekan guru, "DM saya kata RPP untuk link preview gratis generator RPP, LKPD & soal HOTS", 10 hashtag (#guru #guruindonesia #tipsguru #triksmengajar #modulajar #rpp #lkpd #kurikulummerdeka #pendidikan #ipadevpro).
 - Isi: praktis, bisa dicoba besok, tanpa angka/penelitian karangan, tanpa anekdot murid rekaan.
 
+## Kirim ulang ke Facebook Page "Padevi" (sejak 15 Nov 2026)
+- Setiap carousel yang dijadwalkan ke Instagram lewat Buffer juga dijadwalkan ke Facebook Page lewat Tebar create_post: account_ids ["574ee662-feb7-452e-a2b5-c12c998002e3"], media_urls = 6 URL raw.githubusercontent.com yang sama (urut slide1..6), media_alt_texts sama, scheduled_at = jam tayang IG (+07:00, harus di masa depan).
+- Teks: caption IG, tapi di Facebook link bisa diklik, jadi ganti ajakan "komentar/DM RPP" dan "link di bio" dengan link penuh https://rpp.aiforteacher.id/?utm_source=facebook&utm_medium=post (hanya di carousel yang memang memuat soft selling). Hashtag cukup 3-5. Jalur B: "info buku di postingan tersemat" diganti "info buku di Instagram @ipadevpro".
+- Bila Tebar gagal untuk Facebook, jangan mengulang berkali-kali dan jangan menghentikan tugas: catat di results.md. Catat id post Tebar di log.json (field fb_post_id).
+
 ## Putaran umpan balik harian (Tebar)
-- Akun Instagram di Tebar: @ipadevpro, account_id af1f1f5a-80e0-4117-8e1d-bb5d0c4572c7.
+- Akun di Tebar: Instagram @ipadevpro af1f1f5a-80e0-4117-8e1d-bb5d0c4572c7; Threads @ipadevpro fec1d1ef-eb77-41b4-9b22-76782bfc615b; Facebook Page Padevi 574ee662-feb7-452e-a2b5-c12c998002e3.
 - Setiap hari: get_account_insights (days 7) untuk followers, views, reach, saves, shares, profile_links_taps; get_post_performance (days 14) untuk "kali lipat views biasa" dan follows per post; list_automations untuk statistik otomatisasi RPP (terpicu, terkirim, klik link).
 - followers.md: tambah satu baris per hari (tanggal, followers, perubahan, views 7 hari, follows dari post kemarin, klik link otomatisasi).
 - KPI utama: follows per 1.000 views per post dan klik link ke rpp.aiforteacher.id. Pilih thread jalur A/A2 yang polanya mirip pemenang (topik, jenis larangan, situasi sekolah/rumah) dan catat pelajarannya di results.md.
