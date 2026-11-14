@@ -110,7 +110,7 @@ S.append(page(6, f'''
 <div class="title">Mungkin itu pujian yang {hl("tidak tertulis")} di rapor mana pun.</div>
 <div class="grow"></div>
 <div class="card"><div class="lead" style="font-weight:800;font-size:40px;line-height:1.2">Simpan, lalu kirim ke satu guru yang kamu kenal.</div>
-<div class="g16"></div><div class="small">Kisah murid yang tak terlihat seperti ini kutulis di buku <b style="color:{INK}">Kelas Ini Tidak Pernah Selesai</b>. Link di bio.</div></div>''', NOTE))
+<div class="g16"></div><div class="small">Kisah murid yang tak terlihat seperti ini kutulis di buku <b style="color:{INK}">Kelas Ini Tidak Pernah Selesai</b>. Info bukunya ada di postingan tersemat di profil.</div></div>''', NOTE))
 
 os.makedirs(OUT, exist_ok=True)
 for i, s in enumerate(S, 1): open(os.path.join(OUT, f"s{i}.html"), "w").write(s)
