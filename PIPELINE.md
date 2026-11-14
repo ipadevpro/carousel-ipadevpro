@@ -7,14 +7,16 @@
 - Repo ini publik. URL gambar untuk Buffer: https://raw.githubusercontent.com/ipadevpro/carousel-ipadevpro/main/<folder>/slideN.jpg
 - Zona waktu: Asia/Jakarta. Font Inter terpasang lokal (Google Fonts diblokir). Playwright sudah terpasang.
 
-## Jadwal tayang (pakai mode customScheduled, BUKAN antrean)
-- Jalur A: 06:47 WIB hari yang sama
-- Jalur B: 20:13 WIB hari yang sama
-Sebelum membuat post, cek log.json: kalau tanggal+jalur itu sudah ada, lewati jalur tersebut.
+## Jadwal tayang (pakai mode customScheduled, BUKAN antrean) · berlaku sejak 15 Nov 2026
+- Jalur A (pagi): 06:47 WIB, thread personifikasi dengan views tertinggi yang belum dipakai.
+- Jalur A2 (sore): 15:47 WIB, thread personifikasi terbaik berikutnya (format A, template sama).
+- Malam 20:13 WIB: Jalur C (tips & trik guru) pada Senin, Rabu, Jumat, Minggu; Jalur B (renungan) pada Selasa, Kamis, Sabtu.
+- Soft selling RPP: Jalur C selalu (kartu CTA "DM saya RPP"); Jalur A pagi SOFT_SELLING = True hanya Selasa, Kamis, Sabtu (hari tanpa jalur C). Jalur A2 dan B tanpa promosi produk.
+Sebelum membuat post, cek log.json: kalau tanggal+jalur (A, A2, B, C) sudah ada, lewati jalur tersebut.
 
 ## Jalur A: personifikasi edukasi (konversi thread viral)
 - Sumber: post Threads terkirim (list_posts channel Threads, includeMetrics, telusuri beberapa halaman; get_post untuk isi thread penuh). Pilih format personifikasi (organ/penyakit/benda bercerita, "JANGAN ... DAN JANGAN ...", suara orang pertama) dengan views tertinggi yang belum ada di log.json.
-- Gaya: sistem desain v2 (lihat bagian "Sistem desain v2"). Salin template/faring/gen_faring.py ke <folder>/src/, ganti isi daftar A (contoh lengkap: Leptin) dan maskot/ilustrasi bila tokohnya lain (flat 3 nada, outline tinta 7px, bayangan datar #BCCADA). Set SOFT_SELLING = True pada hari Senin/Rabu/Jumat (RPP_LINE otomatis masuk ke kartu CTA slide 6).
+- Gaya: sistem desain v2 (lihat bagian "Sistem desain v2"). Salin template/faring/gen_faring.py ke <folder>/src/, ganti isi daftar A (contoh lengkap: Leptin) dan maskot/ilustrasi bila tokohnya lain (flat 3 nada, outline tinta 7px, bayangan datar #BCCADA). Nama seri tetap "Seri Jangan Dulu" (bar atas). Kartu CTA slide 6 sudah memuat ajakan follow. Set SOFT_SELLING = True hanya untuk jalur A pagi pada Selasa/Kamis/Sabtu (RPP_LINE otomatis masuk ke kartu CTA slide 6).
 - Render: python3 gen_faring.py <outdir> lalu node template/render_html.js <outdir> <outdir>
 - 6 slide: hook larangan + ilustrasi dicoret + "Geser untuk tahu kenapa" / tokoh memperkenalkan diri + "kamu mengira... sering kali..." / kenapa keliru / yang benar (3 langkah) / tanda bahaya atau aturan kunci kedua / penutup suara tokoh + ajakan simpan dan kirim + catatan kaki fiksi untuk topik kesehatan.
 - Hanya klaim yang ada di thread. Tidak menambah saran medis baru.
@@ -27,9 +29,22 @@ Sebelum membuat post, cek log.json: kalau tanggal+jalur itu sudah ada, lewati ja
 - Alur 6 slide: (1) hook menunjuk pembaca langsung + 1-2 kalimat konteks + "Geser pelan-pelan" / (2) konteks pendek lalu kalimat kunci kapital + penekanan stabilo / (3) edukasi: judul + 2 poin berlabel bata + kalimat penutup / (4) tiga hal kecil yang bisa dicoba / (5) puncak emosi, halaman kuning: satu kalimat display besar + kutipan tebal (tanpa garis merah) / (6) ajakan besok pagi + kalimat penutup menyentuh + kotak CTA "Simpan, lalu kirim ke satu guru yang kamu kenal." dan "Kisah murid ... kutulis di buku Kelas Ini Tidak Pernah Selesai. Link di bio." + catatan kaki "Tulisan ini renungan, bukan kisah satu murid tertentu."
 - Caption: renungan singkat 3-5 kalimat, tiga hal kecil, ajakan simpan dan kirim, satu kalimat soft selling buku + "link di bio", 10 hashtag (#guru #guruindonesia #pendidikan #refleksiguru #muridku #kelasinitidakpernahselesai #bukuguru #gurupenggerak #parenting #ipadevpro).
 
+## Jalur C: tips & trik guru (Senin, Rabu, Jumat, Minggu 20:13)
+- Topik: ambil topik [ ] berikutnya dari topics-tips.md, tandai [x] + tanggal.
+- Gaya: template/tips/gen_tips.py (contoh lengkap "Murid diam bukan berarti paham"), seri "Trik Kelas". Struktur: hook + janji jumlah trik / tiga slide trik (nomor besar, nama trik, caranya, kartu contoh) / kesalahan yang sering terlewat atau trik bonus / CTA: simpan + coba besok + follow + kartu "DM saya kata RPP".
+- Otomatisasi Tebar "DM kata kunci" mengirim link rpp.aiforteacher.id ke yang DM kata RPP, LKPD, atau MODUL (khusus follower; yang belum follow diminta follow dulu). Jangan menyebut kata kunci lain di slide.
+- Caption: 2-3 kalimat pengantar, tiga trik dalam satu baris masing-masing, ajakan simpan dan kirim ke rekan guru, "DM saya kata RPP untuk link preview gratis generator RPP, LKPD & soal HOTS", 10 hashtag (#guru #guruindonesia #tipsguru #triksmengajar #modulajar #rpp #lkpd #kurikulummerdeka #pendidikan #ipadevpro).
+- Isi: praktis, bisa dicoba besok, tanpa angka/penelitian karangan, tanpa anekdot murid rekaan.
+
+## Putaran umpan balik harian (Tebar)
+- Akun Instagram di Tebar: @ipadevpro, account_id af1f1f5a-80e0-4117-8e1d-bb5d0c4572c7.
+- Setiap hari: get_account_insights (days 7) untuk followers, views, reach, saves, shares, profile_links_taps; get_post_performance (days 14) untuk "kali lipat views biasa" dan follows per post; list_automations untuk statistik otomatisasi RPP (terpicu, terkirim, klik link).
+- followers.md: tambah satu baris per hari (tanggal, followers, perubahan, views 7 hari, follows dari post kemarin, klik link otomatisasi).
+- KPI utama: follows per 1.000 views per post dan klik link ke rpp.aiforteacher.id. Pilih thread jalur A/A2 yang polanya mirip pemenang (topik, jenis larangan, situasi sekolah/rumah) dan catat pelajarannya di results.md.
+
 ## Sistem desain v2 (berlaku sejak 15 Nov 2026, dasar: skill Impeccable)
 Prinsip: dunia "buku tulis guru" dipertahankan (kertas bergaris, garis margin bata, lubang, Inter, stabilo, palet sama). Yang dikunci adalah sistemnya.
-- Contoh tampilan: template/contoh/jalur-a.jpg dan jalur-b.jpg. Jangan menyimpang dari CSS di gen_faring.py / gen_buku.py; yang boleh diubah per slide hanya ukuran .display/.title saat teks terlalu panjang.
+- Contoh tampilan: template/contoh/jalur-a.jpg, jalur-b.jpg, jalur-c.jpg. Jangan menyimpang dari CSS di gen_faring.py / gen_buku.py / gen_tips.py; yang boleh diubah per slide hanya ukuran .display/.title saat teks terlalu panjang.
 - Bingkai: konten mulai x=176, kanan 88; judul selalu mulai di y=184 (top-aligned, TIDAK dipusatkan vertikal). Footer geser/catatan di bawah.
 - Enam peran tipe saja: display 96px 900 KAPITAL (hanya kalimat pendek, maks sekitar 6 kata) / title 68px 800 huruf kalimat / lead 44px 500 / text 38px 500 / small 32px abu / label 30px 800 bata huruf kalimat. Kalimat hook yang panjang memakai .title, bukan kapital.
 - Satu frasa stabilo per slide (kecuali slide kuning). Warna bata hanya untuk label, nomor langkah, dan satu kalimat penegas.

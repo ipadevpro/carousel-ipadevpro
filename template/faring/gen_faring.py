@@ -95,14 +95,15 @@ def page(n, inner, foot="", band=False, bottom=150):
     holes = "".join(f'<div class="hole" style="top:{t}px"></div>' for t in (186, 648, 1110))
     return f'''<!doctype html><html lang="id"><head><meta charset="utf-8"><title>Slide {n}</title><style>{CSS}</style></head><body>
 <div class="pg{' band' if band else ''}"><div class="margin"></div>{holes}
-<div class="top"><span class="h">@ipadevpro</span><span class="n">{n}/6</span></div>
+<div class="top"><span class="h">@ipadevpro <span style="color:#5E594E;font-weight:600">· {SERI}</span></span><span class="n">{n}/6</span></div>
 <div class="body" style="bottom:{bottom}px">{inner}</div>{foot}</div></body></html>'''
 
 
+SERI = 'Seri Jangan Dulu'   # nama seri tetap untuk semua carousel jalur A
 hl = lambda t: f'<span class="hl">{t}</span>'
 SWIPE_A = '<div class="foot">Geser untuk tahu kenapa →</div>'
 SOFT_SELLING = False   # True pada hari Senin, Rabu, Jumat (WIB, tanggal tayang)
-RPP_LINE = '<div class="g16"></div><div class="rpp">Buat Bapak/Ibu guru yang waktunya habis di administrasi: <b>komentar RPP</b>, nanti saya kirim link preview gratis RPP, LKPD &amp; soal HOTS lewat DM.</div>' if SOFT_SELLING else ''
+RPP_LINE = '<div class="g16"></div><div class="rpp">Guru yang waktunya habis di administrasi: <b>komentar RPP</b>, saya kirim link preview gratis lewat DM.</div>' if SOFT_SELLING else ''
 
 # ===== CONTOH LENGKAP: Leptin (ganti isinya, pertahankan strukturnya) =====
 A = []
@@ -150,8 +151,8 @@ A.append(page(5, f'''
 </div>
 <div class="grow"></div>
 <div class="row">{mascot(200, e_worried())}<div class="bubble">Dia butuh<br>penjelasan.</div></div>'''))
-S6 = 'style="font-size:38px"' if SOFT_SELLING else ''
-T6 = 'style="font-size:58px"' if SOFT_SELLING else ''
+S6 = 'style="font-size:36px"' if SOFT_SELLING else ''
+T6 = 'style="font-size:54px"' if SOFT_SELLING else ''
 A.append(page(6, f'''
 <div class="lead" {S6}>Aku bukan dari suntikan. Aku dari tubuh anakmu sendiri. Aku hanya melapor bahwa tubuhnya sudah punya cukup bekal untuk tumbuh dewasa.</div>
 <div class="g56"></div>
@@ -159,7 +160,7 @@ A.append(page(6, f'''
 <div class="g24"></div>
 <div class="lead red" style="font-weight:700">Salam, Leptin.</div>
 <div class="grow"></div>
-<div class="row" style="gap:20px"><div class="card" style="flex:1"><div class="lead" style="font-weight:800;font-size:40px;line-height:1.2">Simpan, lalu kirim ke guru yang kamu kenal.</div>{RPP_LINE}</div>{mascot(170, e_happy())}</div>''',
+<div class="row" style="gap:20px"><div class="card" style="flex:1"><div class="lead" style="font-weight:800;font-size:40px;line-height:1.2">Simpan, kirim, lalu follow untuk mitos berikutnya.</div>{RPP_LINE}</div>{mascot(170, e_happy())}</div>''',
 '<div class="note">Ceritanya fiksi. Yang didukung bukti: leptin berperan sebagai sinyal izin pubertas; IMT lebih tinggi dikaitkan dengan pubertas lebih awal; ayam pedaging tumbuh cepat karena genetik dan pakan. Keterbatasan: penyebabnya banyak faktor, dan peran zat pengganggu hormon dari lingkungan belum jelas.</div>', bottom=250))
 
 
