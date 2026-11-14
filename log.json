@@ -217,7 +217,8 @@
       "ig_buffer_post_id": "6af8dee076c23bf1c7437ebc",
       "folder": "2026-11-15-aromatase",
       "soft_selling": false,
-      "design": "v2"
+      "design": "v2",
+      "fb_post_id": "e731a591-9632-4083-a40f-2d2f4a891a46"
     },
     {
       "date": "2026-11-15",
@@ -229,7 +230,8 @@
       "ig_buffer_post_id": "6af8dee1c5b364e0621d1e6e",
       "folder": "2026-11-15-demam-selimut",
       "soft_selling": false,
-      "design": "v2"
+      "design": "v2",
+      "fb_post_id": "5ac17cb3-279a-4f29-9387-1e84a276f759"
     },
     {
       "date": "2026-11-15",
@@ -239,7 +241,8 @@
       "ig_buffer_post_id": "6af8dee2c5b364e0621d1e9c",
       "folder": "2026-11-15-tips-lima-menit-pertama",
       "soft_selling": true,
-      "design": "v2"
+      "design": "v2",
+      "fb_post_id": "0ad103e5-f387-4bc7-ba28-de4be0400f05"
     }
   ]
 }
