@@ -206,6 +206,40 @@
       "ig_scheduled_at": "2026-11-14T20:13:00+07:00",
       "ig_buffer_post_id": "6af78d374b28296eb11bedab",
       "folder": "2026-11-14-buku-nilai-kecil"
+    },
+    {
+      "date": "2026-11-15",
+      "track": "A",
+      "thread_title": "Aromatase / Si Pengubah Hormon (ginekomastia pubertas)",
+      "thread_buffer_post_id": "6af639679df3cac8a221896a",
+      "thread_views_at_conversion": 8564,
+      "ig_scheduled_at": "2026-11-15T06:47:00+07:00",
+      "ig_buffer_post_id": "6af8dee076c23bf1c7437ebc",
+      "folder": "2026-11-15-aromatase",
+      "soft_selling": false,
+      "design": "v2"
+    },
+    {
+      "date": "2026-11-15",
+      "track": "A2",
+      "thread_title": "Pembuluh Darah Kulit / Si Jendela Panas (anak demam jangan dibungkus selimut tebal)",
+      "thread_buffer_post_id": "6aea5ada84e334d814e5ca53",
+      "thread_views_at_conversion": 4110,
+      "ig_scheduled_at": "2026-11-15T15:47:00+07:00",
+      "ig_buffer_post_id": "6af8dee1c5b364e0621d1e6e",
+      "folder": "2026-11-15-demam-selimut",
+      "soft_selling": false,
+      "design": "v2"
+    },
+    {
+      "date": "2026-11-15",
+      "track": "C",
+      "topic": "5 menit pertama kelas: 3 cara membuka pelajaran tanpa \"buka halaman sekian\"",
+      "ig_scheduled_at": "2026-11-15T20:13:00+07:00",
+      "ig_buffer_post_id": "6af8dee2c5b364e0621d1e9c",
+      "folder": "2026-11-15-tips-lima-menit-pertama",
+      "soft_selling": true,
+      "design": "v2"
     }
   ]
 }

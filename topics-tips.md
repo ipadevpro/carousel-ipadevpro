@@ -2,7 +2,7 @@
 Aturan: trik praktis yang bisa dicoba besok; tanpa angka/penelitian karangan; tanpa anekdot murid rekaan seolah nyata. Topik baru boleh ditambahkan bila habis (utamakan yang menyinggung RPP, LKPD, asesmen, atau persiapan mengajar, karena dekat dengan rpp.aiforteacher.id).
 
 - [x] 2026-11-14 (contoh template) Murid diam bukan berarti paham: 3 trik supaya murid berani bertanya
-- [ ] 5 menit pertama kelas: 3 cara membuka pelajaran tanpa "buka halaman sekian"
+- [x] 2026-11-15 5 menit pertama kelas: 3 cara membuka pelajaran tanpa "buka halaman sekian"
 - [ ] Exit ticket: cara cepat tahu siapa yang belum paham sebelum bel berbunyi
 - [ ] LKPD yang dikerjakan, bukan sekadar diisi: 3 ciri LKPD yang membuat murid berpikir
 - [ ] Membuat soal HOTS dari soal biasa: 3 cara mengubah pertanyaan hafalan
