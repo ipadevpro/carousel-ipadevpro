@@ -243,6 +243,44 @@
       "soft_selling": true,
       "design": "v2",
       "fb_post_id": "0ad103e5-f387-4bc7-ba28-de4be0400f05"
+    },
+    {
+      "date": "2026-11-16",
+      "track": "A",
+      "thread_title": "Usus Besar / Si Penyerap Air (anak diare jangan disuruh berhenti makan-minum, teh pahit bukan obatnya)",
+      "thread_buffer_post_id": "6ae7b8a3902c3fb1debdd96d",
+      "thread_views_at_conversion": 3592,
+      "ig_scheduled_at": "2026-11-16T11:23:00+07:00",
+      "ig_buffer_post_id": "6afa67b160a910801c61cf87",
+      "folder": "2026-11-16-diare-teh-pahit",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "80b3c3fb-9ef7-4cc0-aa16-9f164dfa161c",
+      "note": "06:47 sudah lewat saat run (09:14 WIB), dijadwalkan 2 jam dari sekarang"
+    },
+    {
+      "date": "2026-11-16",
+      "track": "A2",
+      "thread_title": "Estrogen / Si Pembuka Pintu Pubertas (keputihan sebelum haid pertama, jangan dibasuh sabun sirih/antiseptik)",
+      "thread_buffer_post_id": "6af63968c7dc4b708192a59e",
+      "thread_views_at_conversion": 3245,
+      "ig_scheduled_at": "2026-11-16T15:47:00+07:00",
+      "ig_buffer_post_id": "6afa67b160a910801c61cfb9",
+      "folder": "2026-11-16-keputihan",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "38c5d35b-3522-405d-99ab-52886d7786fe"
+    },
+    {
+      "date": "2026-11-16",
+      "track": "C",
+      "topic": "Exit ticket: cara cepat tahu siapa yang belum paham sebelum bel berbunyi",
+      "ig_scheduled_at": "2026-11-16T20:13:00+07:00",
+      "ig_buffer_post_id": "6afa67b206e1675856be5508",
+      "folder": "2026-11-16-tips-exit-ticket",
+      "soft_selling": true,
+      "design": "v2",
+      "fb_post_id": "fc15c48b-62d9-4996-8a4f-2f2719c63b97"
     }
   ]
 }
