@@ -318,6 +318,44 @@
       "soft_selling": true,
       "design": "v2",
       "fb_post_id": "c5922c9b-6ff8-42b0-a149-9d8cc98f94bc"
+    },
+    {
+      "date": "2026-11-19",
+      "track": "A",
+      "thread_title": "Insulin / Si Pembuka Pintu (leher anak menghitam seperti daki tidak selalu karena jarang mandi, jangan digosok sampai lecet)",
+      "thread_buffer_post_id": "6ae666d6ab019b908729409e",
+      "thread_views_at_conversion": 4908,
+      "ig_scheduled_at": "2026-11-19T06:47:00+07:00",
+      "ig_buffer_post_id": "6afe24c6ebd4409dc9fceb0f",
+      "folder": "2026-11-19-leher-menghitam",
+      "soft_selling": true,
+      "design": "v2",
+      "fb_post_id": "dcf943da-c3be-4cb4-9cb7-86fe19552f5b",
+      "note": "RPP_LINE sudut malam sebelum supervisi; P.S. komentar RPP atau link di bio"
+    },
+    {
+      "date": "2026-11-19",
+      "track": "A2",
+      "thread_title": "Nematokis / Si Tombak Mini (anak tersengat ubur-ubur saat study tour jangan dikencingi, jangan digosok pasir atau handuk)",
+      "thread_buffer_post_id": "6ae6669e1ee172cd6dc6d19d",
+      "thread_views_at_conversion": 3485,
+      "ig_scheduled_at": "2026-11-19T15:47:00+07:00",
+      "ig_buffer_post_id": "6afe24e3c69bd1cb88879ba1",
+      "folder": "2026-11-19-ubur-ubur",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "6115ed5d-b937-4dc4-9d04-ac96bfc2ec5d"
+    },
+    {
+      "date": "2026-11-19",
+      "track": "B",
+      "topic": "Satu kalimat guru yang bisa terbawa sampai dewasa: pilih kata dengan sadar",
+      "ig_scheduled_at": "2026-11-19T20:13:00+07:00",
+      "ig_buffer_post_id": "6afe24fdebd4409dc9fcfbbb",
+      "folder": "2026-11-19-buku-satu-kalimat",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "40bf46cb-f350-4bb0-bf1a-e4b217b03b11"
     }
   ]
 }
