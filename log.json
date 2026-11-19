@@ -356,6 +356,43 @@
       "soft_selling": false,
       "design": "v2",
       "fb_post_id": "40bf46cb-f350-4bb0-bf1a-e4b217b03b11"
+    },
+    {
+      "date": "2026-11-20",
+      "track": "A",
+      "thread_title": "Serebelum / Si Pengatur Gerak (remaja sering menyenggol gelas bukan ceroboh, jangan dijuluki si grusa-grusu)",
+      "thread_buffer_post_id": "6afcd279b1f02ae62296ad58",
+      "thread_views_at_conversion": 2313,
+      "ig_scheduled_at": "2026-11-20T06:47:00+07:00",
+      "ig_buffer_post_id": "6aff764543805190f08f3415",
+      "folder": "2026-11-20-canggung-tumbuh",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "067e4e21-4a91-4767-b9c7-6f78ac9116f5"
+    },
+    {
+      "date": "2026-11-20",
+      "track": "A2",
+      "thread_title": "Ovarium / Si Pemula yang Belum Hafal Jadwal (haid remaja belum teratur bukan penyakit, jangan dicekoki jamu pelancar haid)",
+      "thread_buffer_post_id": "6af8dc02918fe79d2ea8a489",
+      "thread_views_at_conversion": 1385,
+      "ig_scheduled_at": "2026-11-20T15:47:00+07:00",
+      "ig_buffer_post_id": "6aff765f48bc5f5e45a56a64",
+      "folder": "2026-11-20-haid-belum-teratur",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "aee7d036-0c21-49c4-a2eb-33dfd68ee545"
+    },
+    {
+      "date": "2026-11-20",
+      "track": "C",
+      "topic": "Membuat soal HOTS dari soal biasa: 3 cara mengubah pertanyaan hafalan",
+      "ig_scheduled_at": "2026-11-20T20:13:00+07:00",
+      "ig_buffer_post_id": "6aff765f48bc5f5e45a56c01",
+      "folder": "2026-11-20-tips-soal-hots",
+      "soft_selling": true,
+      "design": "v2",
+      "fb_post_id": "b39251a7-9d01-468a-ac6e-26f208bd91dc"
     }
   ]
 }
