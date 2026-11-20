@@ -16,6 +16,6 @@ Tandai [x] setelah dipakai, beserta tanggal.
 - [x] (2026-11-13) Guru juga boleh minta maaf pada murid: itu tidak mengurangi wibawa
 - [x] (2026-11-14) Murid yang nilainya kecil tapi hatinya besar: rapor tidak mengukur semuanya
 - [x] (2026-11-19) Satu kalimat guru yang bisa terbawa sampai dewasa: pilih kata dengan sadar
-- [ ] Anak yang tidak pernah dijemput: siapa yang menunggu bersamanya?
+- [x] (2026-11-21) Anak yang tidak pernah dijemput: siapa yang menunggu bersamanya?
 - [ ] Hari terakhir sekolah: murid yang paling diam sering paling sulit berpamitan
 - [ ] Guru yang lelah: merawat diri supaya tetap bisa hadir untuk murid

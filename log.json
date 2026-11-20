@@ -393,6 +393,44 @@
       "soft_selling": true,
       "design": "v2",
       "fb_post_id": "b39251a7-9d01-468a-ac6e-26f208bd91dc"
+    },
+    {
+      "date": "2026-11-21",
+      "track": "A",
+      "thread_title": "Ghrelin / Si Pemberi Kabar Lapar (remaja makan dua piring sepulang sekolah bukan rakus, jangan disindir perut karet)",
+      "thread_buffer_post_id": "6aff752843805190f08ecb4f",
+      "thread_views_at_conversion": 21237,
+      "ig_scheduled_at": "2026-11-21T06:47:00+07:00",
+      "ig_buffer_post_id": "6b00c80b5102766245d9186b",
+      "folder": "2026-11-21-lapar-tumbuh",
+      "soft_selling": true,
+      "design": "v2",
+      "fb_post_id": "c92e4b16-c6d8-46a6-8efe-e540879339a7",
+      "note": "RPP_LINE sudut LKPD sistem pencernaan; P.S. komentar RPP atau link di bio"
+    },
+    {
+      "date": "2026-11-21",
+      "track": "A2",
+      "thread_title": "Tuberositas Tibia / Si Benjolan di Bawah Lutut (lutut nyeri setelah main bola bukan manja, benjolan jangan diurut kuat; Osgood-Schlatter)",
+      "thread_buffer_post_id": "6afe23dac462756e9e21d847",
+      "thread_views_at_conversion": 2656,
+      "ig_scheduled_at": "2026-11-21T15:47:00+07:00",
+      "ig_buffer_post_id": "6b00c8255e993799d8321ce5",
+      "folder": "2026-11-21-lutut-bola",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "cf5ad2d8-b173-4a99-972f-5a8ed6d4e0d7"
+    },
+    {
+      "date": "2026-11-21",
+      "track": "B",
+      "topic": "Anak yang tidak pernah dijemput: siapa yang menunggu bersamanya?",
+      "ig_scheduled_at": "2026-11-21T20:13:00+07:00",
+      "ig_buffer_post_id": "6b00c826d9cbb430a1feac4c",
+      "folder": "2026-11-21-buku-tidak-dijemput",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "ec01c061-8492-4596-95a6-a9100a2e8008"
     }
   ]
 }
