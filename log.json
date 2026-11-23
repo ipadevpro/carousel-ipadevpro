@@ -431,6 +431,44 @@
       "soft_selling": false,
       "design": "v2",
       "fb_post_id": "ec01c061-8492-4596-95a6-a9100a2e8008"
+    },
+    {
+      "date": "2026-11-24",
+      "track": "A",
+      "thread_title": "Serumen / Si Satpam Lilin (kotoran telinga banyak bukan jorok, jangan dikorek cotton bud, jepit rambut, tutup pulpen)",
+      "thread_platform_id": "18134144239827839",
+      "thread_views_at_conversion": 46999,
+      "ig_scheduled_at": "2026-11-24T06:47:00+07:00",
+      "ig_buffer_post_id": "6b04bc7718db0405bdab91de",
+      "folder": "2026-11-24-kotoran-telinga",
+      "soft_selling": true,
+      "design": "v2",
+      "fb_post_id": "a6f87daa-bc0d-49b7-8092-46017570f265",
+      "note": "RPP_LINE sudut indra pendengaran (RPP & LKPD); P.S. komentar RPP atau link di bio; thread platform id dari Tebar (Threads)"
+    },
+    {
+      "date": "2026-11-24",
+      "track": "A2",
+      "thread_title": "Kortisol / Si Alarm (murid mendadak lupa jawaban saat dipanggil ke depan kelas bukan tidak belajar, jangan ditanya semalam ngapain aja)",
+      "thread_platform_id": "17874417036642561",
+      "thread_views_at_conversion": 1024,
+      "ig_scheduled_at": "2026-11-24T15:47:00+07:00",
+      "ig_buffer_post_id": "6b04bc948165ce395b9feadf",
+      "folder": "2026-11-24-lupa-jawaban",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "69023d1d-a30e-4a3d-873c-55edd29f013a"
+    },
+    {
+      "date": "2026-11-24",
+      "track": "B",
+      "topic": "Hari terakhir sekolah: murid yang paling diam sering paling sulit berpamitan (judul: Yang paling diam juga ingin berpamitan)",
+      "ig_scheduled_at": "2026-11-24T20:13:00+07:00",
+      "ig_buffer_post_id": "6b04bcae07fee37ee6082df2",
+      "folder": "2026-11-24-buku-hari-terakhir",
+      "soft_selling": false,
+      "design": "v2",
+      "fb_post_id": "544fd109-a04d-4361-97d6-57c07631d27d"
     }
   ]
 }
