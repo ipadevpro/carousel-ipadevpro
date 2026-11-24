@@ -1,13 +1,12 @@
-# Pipeline harian: 2 carousel Instagram @ipadevpro
+# Pipeline harian: 3 carousel Instagram @ipadevpro (dijadwalkan lewat Tebar)
 
 ## Aset
-- Buffer org id: 682887c330d408bb78641b35
-- Channel Threads: 68288862f49c987a953a2e25
-- Channel Instagram: 6ae81d63e29c69a171334a3d (business, direct publishing)
-- Repo ini publik. URL gambar untuk Buffer: https://raw.githubusercontent.com/ipadevpro/carousel-ipadevpro/main/<folder>/slideN.jpg
+- PENJADWALAN DAN DATA LEWAT TEBAR (sejak 24 Nov 2026). Buffer kehilangan otorisasi ke Instagram dan Threads: JANGAN memakai Buffer untuk menjadwalkan atau membaca data. Id Buffer lama di log.json dibiarkan apa adanya.
+- Akun Tebar: Instagram @ipadevpro af1f1f5a-80e0-4117-8e1d-bb5d0c4572c7; Threads @ipadevpro fec1d1ef-eb77-41b4-9b22-76782bfc615b; Facebook Page Padevi 574ee662-feb7-452e-a2b5-c12c998002e3.
+- Repo ini publik. URL gambar untuk Tebar (media_urls): https://raw.githubusercontent.com/ipadevpro/carousel-ipadevpro/main/<folder>/slideN.jpg
 - Zona waktu: Asia/Jakarta. Font Inter terpasang lokal (Google Fonts diblokir). Playwright sudah terpasang.
 
-## Jadwal tayang (pakai mode customScheduled, BUKAN antrean) · berlaku sejak 15 Nov 2026
+## Jadwal tayang (Tebar create_post dengan scheduled_at ISO +07:00) · berlaku sejak 15 Nov 2026
 - Jalur A (pagi): 06:47 WIB, thread personifikasi dengan views tertinggi yang belum dipakai.
 - Jalur A2 (sore): 15:47 WIB, thread personifikasi terbaik berikutnya (format A, template sama).
 - Malam 20:13 WIB: Jalur C (tips & trik guru) pada Senin, Rabu, Jumat, Minggu; Jalur B (renungan) pada Selasa, Kamis, Sabtu.
@@ -15,7 +14,7 @@
 Sebelum membuat post, cek log.json: kalau tanggal+jalur (A, A2, B, C) sudah ada, lewati jalur tersebut.
 
 ## Jalur A: personifikasi edukasi (konversi thread viral)
-- Sumber: post Threads terkirim (list_posts channel Threads, includeMetrics, telusuri beberapa halaman; get_post untuk isi thread penuh). Pilih format personifikasi (organ/penyakit/benda bercerita, "JANGAN ... DAN JANGAN ...", suara orang pertama) dengan views tertinggi yang belum ada di log.json.
+- Sumber: Tebar get_post_performance akun Threads fec1d1ef-eb77-41b4-9b22-76782bfc615b (days 14-30, views dan "kali lipat views biasa"), lalu Tebar get_post (platform post id + account_id) untuk isi thread penuh. Pilih format personifikasi (organ/penyakit/benda bercerita, "JANGAN ... DAN JANGAN ...", suara orang pertama) dengan views tertinggi yang belum ada di log.json.
 - Gaya: sistem desain v2 (lihat bagian "Sistem desain v2"). Salin template/faring/gen_faring.py ke <folder>/src/, ganti isi daftar A (contoh lengkap: Leptin) dan maskot/ilustrasi bila tokohnya lain (flat 3 nada, outline tinta 7px, bayangan datar #BCCADA). Nama seri tetap "Seri Jangan Dulu" (bar atas). Kartu CTA slide 6 sudah memuat ajakan follow. Set SOFT_SELLING = True hanya untuk jalur A pagi pada Selasa/Kamis/Sabtu (RPP_LINE otomatis masuk ke kartu CTA slide 6).
 - Render: python3 gen_faring.py <outdir> lalu node template/render_html.js <outdir> <outdir>
 - 6 slide: hook larangan + ilustrasi dicoret + "Geser untuk tahu kenapa" / tokoh memperkenalkan diri + "kamu mengira... sering kali..." / kenapa keliru / yang benar (3 langkah) / tanda bahaya atau aturan kunci kedua / penutup suara tokoh + ajakan simpan dan kirim + catatan kaki fiksi untuk topik kesehatan.
@@ -37,7 +36,7 @@ Sebelum membuat post, cek log.json: kalau tanggal+jalur (A, A2, B, C) sudah ada,
 - Isi: praktis, bisa dicoba besok, tanpa angka/penelitian karangan, tanpa anekdot murid rekaan.
 
 ## Kirim ulang ke Facebook Page "Padevi" (sejak 15 Nov 2026)
-- Setiap carousel yang dijadwalkan ke Instagram lewat Buffer juga dijadwalkan ke Facebook Page lewat Tebar create_post: account_ids ["574ee662-feb7-452e-a2b5-c12c998002e3"], media_urls = 6 URL raw.githubusercontent.com yang sama (urut slide1..6), media_alt_texts sama, scheduled_at = jam tayang IG (+07:00, harus di masa depan).
+- Setiap carousel yang dijadwalkan ke Instagram lewat Tebar juga dijadwalkan ke Facebook Page lewat Tebar create_post: account_ids ["574ee662-feb7-452e-a2b5-c12c998002e3"], media_urls = 6 URL raw.githubusercontent.com yang sama (urut slide1..6), media_alt_texts sama, scheduled_at = jam tayang IG (+07:00, harus di masa depan).
 - Teks: caption IG, tapi di Facebook link bisa diklik, jadi ganti ajakan "komentar/DM RPP" dan "link di bio" dengan link penuh https://rpp.aiforteacher.id/?utm_source=facebook&utm_medium=post (hanya di carousel yang memang memuat soft selling). Hashtag cukup 3-5. Jalur B: "info buku di postingan tersemat" diganti "info buku di Instagram @ipadevpro".
 - Bila Tebar gagal untuk Facebook, jangan mengulang berkali-kali dan jangan menghentikan tugas: catat di results.md. Catat id post Tebar di log.json (field fb_post_id).
 
@@ -58,21 +57,24 @@ Prinsip: dunia "buku tulis guru" dipertahankan (kertas bergaris, garis margin ba
 - Kartu CTA: latar #FFFDF6, radius 28, bayangan lembut (sudah ada di kelas .card).
 - Langkah bernomor memakai lingkaran bata .num (hanya bila urutan berarti); daftar biasa memakai titik .dot.
 
-## Aturan isi (antislop, kedua jalur)
+## Link bio
+- Link di bio Instagram hanya satu: rpp.aiforteacher.id (utm_medium=bio). "Link di bio" hanya untuk rpp.aiforteacher.id; untuk buku arahkan ke "postingan tersemat di profil".
+
+## Aturan isi (antislop, semua jalur)
 - Tidak mengarang angka, persentase, atau studi.
 - Tanpa tanda pisah panjang (em dash), tanpa panah dekoratif (kecuali isyarat geser slide 1), tanpa pil/eyebrow dekoratif, tanpa ikon kilau.
 - Palet: krem #FBF3DF, tinta #1B1B1F, abu hangat, bata #B5483A, stabilo #FFE14D.
 - Periksa SETIAP JPG dengan Read: teks meluap, tumpang tindih (terutama kartu CTA vs catatan kaki di slide 6), kata terputus, ruang kosong besar, judul tidak di posisi y=184. Perbaiki sebelum push.
 
 ## Alur tugas harian (jalan 05:13 WIB)
-1. Baca log.json, results.md, topics-buku.md.
-2. Kerjakan jalur A lalu jalur B (lewati yang sudah ada di log untuk tanggal hari ini).
+1. Baca log.json, results.md, topics-buku.md, topics-tips.md, followers.md; jalankan putaran umpan balik Tebar dulu.
+2. Kerjakan jalur A, A2, lalu jalur malam (B atau C) (lewati yang sudah ada di log untuk tanggal hari ini).
 3. Simpan tiap carousel di folder YYYY-MM-DD-slug/ (JPG + src/), commit, push ke main.
 4. Tunggu sekitar 3 menit, cek tiap URL raw (curl -I harus 200).
-5. create_post ke channel Instagram: mode customScheduled, dueAt sesuai jadwal di atas (+07:00), schedulingType automatic, metadata.instagram {type: post, shouldShareToFeed: true}, 6 aset gambar dengan altText, caption + 10 hashtag. Jika jam tayang sudah lewat, pakai slot +2 jam dari sekarang.
-6. Perbarui log.json (id post Buffer, jalur, tanggal) dan topics-buku.md.
-7. results.md: untuk carousel yang sudah tayang >= 24 jam, ambil metrik IG (list_posts channel IG, includeMetrics) dan, untuk jalur A, views thread sumber; isi barisnya.
-8. followers.md: jika ada tool yang menampilkan jumlah followers IG (cek get_channel / metrik Buffer), tambahkan satu baris harian beserta konten yang tayang kemarin. Jika tidak tersedia, tulis 'menunggu angka dari Devi' dan sebutkan di ringkasan akhir.
-9. Reels: post video di channel Instagram yang dibuat di luar pipeline ini (Reels mitos/fakta sains, biasanya tayang sekitar 12:00 dan 19:00 WIB). JANGAN diubah atau dihapus. Untuk Reels yang sudah tayang >= 24 jam dan belum tercatat, ambil metriknya (list_posts channel IG, includeMetrics) dan tambahkan baris di tabel Reels di results.md.
-10. Setiap Senin: tulis "Ringkasan mingguan" di results.md: rata-rata reach, saves, shares, dan komentar per format (Reels, Carousel A, Carousel B) selama 7 hari terakhir, 3 konten terbaik, perubahan followers dari followers.md, dan satu rekomendasi format mana yang diperbanyak.
-11. Commit dan push. Jangan menghapus atau mengubah post yang sudah ada di Buffer.
+5. Cek Tebar list_posts status "scheduled" supaya tidak ada post Instagram @ipadevpro lain di jam yang sama. Lalu Tebar create_post: account_ids ["af1f1f5a-80e0-4117-8e1d-bb5d0c4572c7"], media_urls = 6 URL raw (urut slide1..6), media_alt_texts untuk keenam gambar, scheduled_at sesuai jadwal (ISO +07:00), text = caption + 10 hashtag. Jika jam tayang sudah lewat, pakai 2 jam dari sekarang (tanpa bertabrakan). Setelah itu jadwalkan versi Facebook Page (lihat bagian di atas) dan cek satu post dengan get_post: status "scheduled", 6 media tidak "missing".
+6. Perbarui log.json (tanggal, track, ig_post_id Tebar, fb_post_id Tebar, folder, soft_selling, design "v2") dan topics-buku.md / topics-tips.md.
+7. results.md: untuk post Instagram yang sudah tayang >= 24 jam, ambil metrik dari Tebar get_post_performance akun IG (views, reach, saves, shares, follows, kali lipat views biasa) dan, untuk jalur A/A2, views thread sumber; isi barisnya.
+8. followers.md: satu baris harian dari Tebar get_account_insights (followers IG, perubahan, views 7 hari, follows dari post kemarin, ketukan link bio, klik link otomatisasi, followers FB Page).
+9. Reels: post video di akun Instagram yang dibuat di luar pipeline ini. JANGAN diubah atau dihapus. Untuk Reels yang sudah tayang >= 24 jam dan belum tercatat, ambil metriknya dari Tebar get_post_performance dan tambahkan baris di tabel Reels di results.md. Tebar list_posts status "failed"/"partial": laporkan post IG/FB @ipadevpro yang gagal dalam 2 hari terakhir, retry_post sekali bila errornya sementara.
+10. Setiap Senin: tulis "Ringkasan mingguan" di results.md: Reels vs A vs A2 vs B vs C, 3 konten terbaik, perubahan followers IG dan FB Page, follows per 1.000 views per jalur, ketukan link bio, klik link otomatisasi RPP di IG dan Threads, desain v2 vs lama, dan satu rekomendasi format yang diperbanyak atau dikurangi.
+11. Commit dan push. Jangan menghapus atau mengubah post yang sudah ada di Tebar (termasuk Reels dan post akun sekolah @smppgii1bandung), dan jangan mengubah otomatisasi Tebar.
