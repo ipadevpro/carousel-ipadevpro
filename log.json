@@ -469,6 +469,46 @@
       "soft_selling": false,
       "design": "v2",
       "fb_post_id": "544fd109-a04d-4361-97d6-57c07631d27d"
+    },
+    {
+      "date": "2026-11-25",
+      "track": "A",
+      "thread_title": "Kelenjar Minyak / Si Pabrik Sebum (remaja berjerawat bukan anak yang jorok, jangan dipencet atau diolesi pasta gigi)",
+      "thread_platform_id": "18091031285306916",
+      "thread_views_at_conversion": 1710,
+      "ig_scheduled_at": "2026-11-25T06:47:00+07:00",
+      "ig_post_id": "549f9909-3594-4669-afab-5819584be043",
+      "fb_post_id": "3ef335e1-c981-44c4-9cf5-efd094adbcdb",
+      "folder": "2026-11-25-jerawat-pubertas",
+      "soft_selling": false,
+      "design": "v2",
+      "note": "dijadwalkan lewat Tebar (bukan Buffer); Rabu, tanpa soft selling"
+    },
+    {
+      "date": "2026-11-25",
+      "track": "A2",
+      "thread_title": "Bola Mata / Si Kepanjangan (anak minus jangan dilarang pakai kacamata, bukan sekadar kebanyakan main HP)",
+      "thread_platform_id": "18117298406173294",
+      "thread_views_at_conversion": 1669,
+      "ig_scheduled_at": "2026-11-25T15:47:00+07:00",
+      "ig_post_id": "bb0f0ae0-6999-4d25-a082-4aaf9090eb54",
+      "fb_post_id": "e2fd6c9d-381f-4387-8070-41bee9664858",
+      "folder": "2026-11-25-mata-minus",
+      "soft_selling": false,
+      "design": "v2",
+      "note": "dijadwalkan lewat Tebar"
+    },
+    {
+      "date": "2026-11-25",
+      "track": "C",
+      "topic": "Kelas ribut setelah istirahat: 3 trik menenangkan tanpa berteriak (judul: Kelas ribut habis istirahat? Jangan adu suara.)",
+      "ig_scheduled_at": "2026-11-25T20:13:00+07:00",
+      "ig_post_id": "d58ba06a-3ea8-438a-a7d3-7d2c0523e54c",
+      "fb_post_id": "facac11f-399c-4a98-a9d0-11965aa9b50b",
+      "folder": "2026-11-25-tips-kelas-ribut",
+      "soft_selling": true,
+      "design": "v2",
+      "note": "dijadwalkan lewat Tebar; caption dibuka ucapan Hari Guru Nasional"
     }
   ]
 }

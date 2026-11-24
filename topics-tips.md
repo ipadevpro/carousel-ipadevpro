@@ -6,7 +6,7 @@ Aturan: trik praktis yang bisa dicoba besok; tanpa angka/penelitian karangan; ta
 - [x] 2026-11-16 Exit ticket: cara cepat tahu siapa yang belum paham sebelum bel berbunyi
 - [x] 2026-11-18 LKPD yang dikerjakan, bukan sekadar diisi: 3 ciri LKPD yang membuat murid berpikir
 - [x] 2026-11-20 Membuat soal HOTS dari soal biasa: 3 cara mengubah pertanyaan hafalan
-- [ ] Kelas ribut setelah istirahat: 3 trik menenangkan tanpa berteriak
+- [x] 2026-11-25 Kelas ribut setelah istirahat: 3 trik menenangkan tanpa berteriak
 - [ ] Kerja kelompok yang adil: cara membagi peran supaya tidak satu anak yang bekerja
 - [ ] Menyusun tujuan pembelajaran yang bisa diukur: rumus sederhana kata kerja + kondisi + kriteria
 - [ ] Umpan balik yang dibaca murid: 3 cara memberi komentar di tugas
