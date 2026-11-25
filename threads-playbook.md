@@ -40,12 +40,36 @@ Aturan: narator = organ, zat, mikroba, area otak, atau proses tubuh ("aku"). Tid
 - **Yang lemah**: guru to guru tidak pernah lebih dari 1,6x (rata-rata 0,2–0,5x); soft selling rata-rata 343 views. Topik emosi/perilaku murid tanpa unsur tubuh yang jelas (merinding Indonesia Raya, tangan basah, tertawa saat ditegur) cenderung 0,5–0,6x.
 - **Tren 24 Nov**: format 11 bagian stabil di 1,0–2,1x tetapi hampir 0 komentar organik. Belum ada yang meledak; perlu dipantau apakah lebih pendek memengaruhi diskusi.
 - **Hari tanpa postingan** menurunkan views mingguan: 17, 22, 23 Nov kosong; views 7 hari turun 53% dibanding minggu sebelumnya.
+- **Tren 25 Nov (hari kedua format 11 bagian)**: masih belum ada yang meledak; rentang 0,5–2,7x, rata-rata thread 1.019 views. Pemenang: hook "PENGUMUMAN:" tentang tubuh/makanan sehari-hari (hidung tersumbat bergantian 2,7x, tempe 1,7x). Hook "BAPAK, IBU GURU:" tentang emosi murid (wajah memerah) 0,6x; gigi hiu 0,5x. Komentar organik nyaris 0 (maks. 3). Dugaan: format 11 bagian atau hilangnya momentum setelah 2 hari kosong; pantau 3–5 hari lagi sebelum menyimpulkan.
 
 ## Narator/topik yang sudah dipakai (hindari mengulang)
 5–24 Nov: pilek/antibiotik, gigi berlubang, haid keramas, ciki ngebul, radang tenggorokan, ketindihan, cacingan, tomcat, jengkolan, kesurupan massal, getah mangga, kedutan mata (2x), telinga berdenging (2x), mata juling, pandangan gelap, merinding, permen karet, lipan, hypnic jerk, kalajengking, mengigau, gundul, bintik putih kuku (2x), bunyi jari, mimpi gigi copot, night terror, patil lele, mandi malam, tidur mata terbuka, nyamuk, growing pains, kail pancing, mata minus/wortel, biji jambu, linglung magrib, sunburn, gula hiperaktif, suara memanggil, mandi setelah olahraga, murid menguap (2x), jerawat (2x), kehujanan, jamur liar, ulek cabai, berenang setelah makan, bangun jam tiga, memar, air dingin setelah lari, kaporit, bergelantungan, getah talas, seblak, sosok gelap, mi instan, keramik ambeien, déjà vu, bayam, ponsel dekat bantal, kopi, angkat beban, micin, haid dini, semangka, jarum pentul, air rebus dua kali, nasi sisa (2x), ayam dicuci, udang + vitamin C, gorengan + air dingin, beras plastik, ginekomastia, botol di mobil, keputihan, aturan lima detik, jelantah, telur cokelat, panci aluminium, telur + madu, ikan cacingan, haid es, microwave, jari keriput, air semalam, es batu, pusar, madu kristal, ceker, bawang merah demam, haid tak teratur, tidur setelah makan, kangkung, pingsan upacara, bau ketiak, susu UHT, suara pecah, kerokan, kresek hitam, mimisan, cegukan, kesemutan, solanin kentang, cincin hijau telur, bersin cahaya, canggung growth spurt, melatonin, keseleo, blank saat dipanggil, begadang, telur mengapung, tertawa ditegur, apel cokelat, Osgood-Schlatter, roti berjamur, payudara tumbuh, menatap ke atas, iris bawang, kulit susu, kerupuk melempem, merinding lagu, lapar remaja, tumit Sever, stretch mark, perut Senin, pisang bintik, busa rebusan, serumen, pare pahit, remaja nekat, telapak basah, mood remaja, anak laki-laki menangis, izin toilet, tas berat, kacamata minus, gigi kuning, luka bubuk kopi, sariawan, ketombe, kaki bau.
 25 Nov: konka (siklus nasal), Rhizopus (tempe), gigi seri dewasa (gigi hiu), korteks prefrontal (sleepwalking), pembuluh darah pipi (blushing), neutrofil (bisul/telur), histamin (tongkol/skombroid), vasopresin (ngompol), adenoid (mendengkur).
+26 Nov: bromelain (lidah perih nanas), kelenjar ludah (ngiler), kompleks motorik migrasi (perut bunyi di kelas), melanosit (uban remaja), tuba Eustachius (telinga budeg karyawisata), lempeng pertumbuhan kaki (sepatu cepat sempit), bakteri usus besar (kentut di kelas), otot masseter (gertak gigi/bruksisme), kelenjar getah bening (benjolan leher setelah pilek).
 
 ## Log harian
+
+### 26 Nov 2026 (Kamis)
+- Followers Threads 76.336 (−7 dari kemarin; −43 dalam 7 hari).
+- 18–25 Nov: 60 postingan, rata-rata 2.260 views; thread biasa rata-rata 2.480, median 877. Views akun 7 hari 381 rb (−46% vs minggu sebelumnya).
+- Top 3 (7 hari, x usual): serumen 47.082 (58,1x); remaja lapar terus 26.074 (37,8x); busa rebusan ayam 6.195 (8,4x). Top 3 kemarin (25 Nov): konka/hidung tersumbat bergantian 2.282 (2,7x, 3 komentar organik); Rhizopus/tempe 1.446 (1,7x); adenoid/mendengkur 1.248 (1,5x).
+- Bottom 3 kemarin (non guru to guru): gigi hiu 451 (0,5x); wajah memerah dipanggil ke depan 526 (0,6x, berisi P.S. RPP); ngompol 563 (0,7x). Rata-rata thread 25 Nov 1.019 views, median 747.
+- Soft selling 25 Nov (Hari Guru) 249 views, 2 balasan; rata-rata guru to guru/soft selling 7 hari 281 vs thread 2.480.
+- Otomatisasi komentar RPP: total 5 terpicu, 5 terkirim, 0 klik (1 baru pada 25 Nov sekitar 17.32 WIB). Klik akun Threads 7 hari: 30, semuanya 18–20 Nov.
+- Hari tanpa postingan dalam 7 hari: 22 dan 23 Nov; 24 Nov mulai pukul 09.00.
+- Pelajaran: dua hari format 11 bagian belum ada yang di atas 3x. Hook "PENGUMUMAN:" tubuh/dapur sehari-hari lebih stabil daripada hook "BAPAK, IBU GURU:" soal emosi murid. Hari ini dicoba lebih banyak label "jorok/cacingan" + larangan cara rumahan (ngiler, kentut, gertak gigi) dan pubertas (sepatu sempit, uban).
+- Postingan terjadwal (Tebar):
+  - 07.00 Bromelain, lidah perih setelah makan nanas (PENGUMUMAN)
+  - 08.00 Kelenjar Ludah, ngiler bukan cacingan
+  - 09.00 Kompleks Motorik Migrasi, perut bunyi saat kelas hening (**P.S. RPP**)
+  - 10.00 Melanosit, uban remaja jangan dicabuti
+  - 11.00 Tuba Eustachius, telinga budeg di bus karyawisata (**P.S. RPP**)
+  - 12.00 Lempeng Pertumbuhan Kaki, sepatu cepat sempit saat pubertas (**jembatan IG**)
+  - 13.00 Bakteri Usus Besar, kentut di kelas (**jembatan IG**)
+  - 14.00 Otot Masseter, gertak gigi saat tidur bukan cacingan
+  - 15.00 Kelenjar Getah Bening, benjolan leher setelah pilek
+  - 16.00 Guru to guru (Kamis, tanpa promosi): materi paling susah bikin murid "klik"
+- Catatan: alat Projects tetap tidak tersedia; playbook asli di Project tidak bisa dibaca/diperbarui, yang diperbarui salinan repo ini.
 
 ### 25 Nov 2026 (Rabu, Hari Guru Nasional)
 - Followers Threads 76.343 (−51 dalam 7 hari, sekitar −7/hari).
