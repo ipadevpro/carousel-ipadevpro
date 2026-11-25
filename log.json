@@ -509,6 +509,46 @@
       "soft_selling": true,
       "design": "v2",
       "note": "dijadwalkan lewat Tebar; caption dibuka ucapan Hari Guru Nasional"
+    },
+    {
+      "date": "2026-11-26",
+      "track": "A",
+      "thread_title": "Bakteri Kulit Kaki / Si Pengurai Keringat (kaki bau sepulang sekolah bukan jorok, jangan disuruh lepas sepatu di depan teman sambil ditertawakan)",
+      "thread_platform_id": "18097012454682253",
+      "thread_views_at_conversion": 2203,
+      "ig_scheduled_at": "2026-11-26T06:47:00+07:00",
+      "ig_post_id": "f32400ac-f817-4cb4-9774-b37a055ae775",
+      "fb_post_id": "f33fdebe-73ab-4e58-a36c-5006c0a468ed",
+      "folder": "2026-11-26-kaki-bau",
+      "soft_selling": true,
+      "design": "v2",
+      "note": "Kamis; RPP_LINE sudut mikroorganisme jadi soal HOTS; P.S. komentar RPP atau link di bio; dijadwalkan lewat Tebar"
+    },
+    {
+      "date": "2026-11-26",
+      "track": "A2",
+      "thread_title": "Email Gigi / Si Lapisan Bening (gigi dewasa lebih kuning bukan malas sikat gigi, jangan digosok jeruk nipis atau arang)",
+      "thread_platform_id": "18117324638273438",
+      "thread_views_at_conversion": 1224,
+      "ig_scheduled_at": "2026-11-26T15:47:00+07:00",
+      "ig_post_id": "d36ad648-11f5-46c7-84b6-29c777688d3e",
+      "fb_post_id": "bdf5da65-f2e6-4dc3-8c42-a7191cceb030",
+      "folder": "2026-11-26-gigi-kuning",
+      "soft_selling": false,
+      "design": "v2",
+      "note": "dijadwalkan lewat Tebar"
+    },
+    {
+      "date": "2026-11-26",
+      "track": "B",
+      "topic": "Guru yang lelah: merawat diri supaya tetap bisa hadir untuk murid (judul: Kamu juga boleh lelah.)",
+      "ig_scheduled_at": "2026-11-26T20:13:00+07:00",
+      "ig_post_id": "32325fb8-71ed-4b84-ba23-178e3f1a5a88",
+      "fb_post_id": "d7c0474f-5ab0-4cd9-aa13-7437599d3c94",
+      "folder": "2026-11-26-buku-guru-lelah",
+      "soft_selling": false,
+      "design": "v2",
+      "note": "dijadwalkan lewat Tebar"
     }
   ]
 }
