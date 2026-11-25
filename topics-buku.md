@@ -18,4 +18,9 @@ Tandai [x] setelah dipakai, beserta tanggal.
 - [x] (2026-11-19) Satu kalimat guru yang bisa terbawa sampai dewasa: pilih kata dengan sadar
 - [x] (2026-11-21) Anak yang tidak pernah dijemput: siapa yang menunggu bersamanya?
 - [x] (2026-11-24) Hari terakhir sekolah: murid yang paling diam sering paling sulit berpamitan
-- [ ] Guru yang lelah: merawat diri supaya tetap bisa hadir untuk murid
+- [x] (2026-11-26) Guru yang lelah: merawat diri supaya tetap bisa hadir untuk murid
+- [ ] Murid yang selalu duduk paling belakang: mungkin ia sedang mencari tempat aman, bukan menghindar
+- [ ] Menjelang pembagian rapor: angka di rapor dibaca orang tua, kalimat wali kelas dibaca anak
+- [ ] Murid yang paling cepat selesai mengerjakan tugas: ia juga butuh diperhatikan, bukan hanya diberi tugas tambahan
+- [ ] Murid yang jarang ditelepon orang tuanya: siapa yang bertanya bagaimana harinya?
+- [ ] Guru baru di tahun pertama: tidak apa-apa belum tahu semuanya
