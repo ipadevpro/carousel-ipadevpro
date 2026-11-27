@@ -39,6 +39,7 @@ Aturan: narator = organ, zat, mikroba, area otak, atau proses tubuh ("aku"). Tid
 - **Yang lemah**: guru to guru tidak pernah lebih dari 1,6x (rata-rata 0,2–0,5x); soft selling rata-rata 343 views. Topik emosi/perilaku murid tanpa unsur tubuh yang jelas (merinding Indonesia Raya, tangan basah, tertawa saat ditegur) cenderung 0,5–0,6x.
 - **Tren 24 Nov**: format 11 bagian stabil di 1,0–2,1x tetapi hampir 0 komentar organik. Belum ada yang meledak; perlu dipantau apakah lebih pendek memengaruhi diskusi.
 - **Tren 26 Nov (update 27 Nov)**: format 11 bagian BISA meledak: Otot Masseter/gertak gigi "bukan cacingan" 130.394 views (110x, 314 share) dalam kurang dari sehari, rekor akun. Mengonfirmasi rumus tidur + mitos "cacingan" + dialog bentakan malam hari. Benjolan leher setelah pilek 5,7x (6,7 rb). Sisanya 0,9–2,1x. Hook "BAPAK, IBU GURU:" tetap lemah (0,5–1,0x).
+- **Tren 27 Nov (update 28 Nov)**: Masseter terus tumbuh ke 168 rb (221x). Hari biasa tanpa outlier naik: semua thread 1,1–3,4x, rata-rata 1.553. Hook "ANAK YANG ... BUKAN ANAK YANG JOROK. DAN ... JANGAN [cara rumahan berbahaya]" kini konsisten jadi 2 teratas harian (kutu rambut, kutil, sebelumnya ngiler, kaki bau). PENGUMUMAN tentang sensasi sesaat (brain freeze, nanas) cenderung paling bawah. Soft selling dan P.S. RPP: 0 komentar RPP baru sejak 26 Nov.
 - **Hari tanpa postingan** menurunkan views mingguan: 17, 22, 23 Nov kosong; views 7 hari turun 53% dibanding minggu sebelumnya.
 - **Tren 25 Nov (hari kedua format 11 bagian)**: masih belum ada yang meledak; rentang 0,5–2,7x, rata-rata thread 1.019 views. Pemenang: hook "PENGUMUMAN:" tentang tubuh/makanan sehari-hari (hidung tersumbat bergantian 2,7x, tempe 1,7x). Hook "BAPAK, IBU GURU:" tentang emosi murid (wajah memerah) 0,6x; gigi hiu 0,5x. Komentar organik nyaris 0 (maks. 3). Dugaan: format 11 bagian atau hilangnya momentum setelah 2 hari kosong; pantau 3–5 hari lagi sebelum menyimpulkan.
 
@@ -47,8 +48,30 @@ Aturan: narator = organ, zat, mikroba, area otak, atau proses tubuh ("aku"). Tid
 25 Nov: konka (siklus nasal), Rhizopus (tempe), gigi seri dewasa (gigi hiu), korteks prefrontal (sleepwalking), pembuluh darah pipi (blushing), neutrofil (bisul/telur), histamin (tongkol/skombroid), vasopresin (ngompol), adenoid (mendengkur).
 26 Nov: bromelain (lidah perih nanas), kelenjar ludah (ngiler), kompleks motorik migrasi (perut bunyi di kelas), melanosit (uban remaja), tuba Eustachius (telinga budeg karyawisata), lempeng pertumbuhan kaki (sepatu cepat sempit), bakteri usus besar (kentut di kelas), otot masseter (gertak gigi/bruksisme), kelenjar getah bening (benjolan leher setelah pilek).
 27 Nov: kasein (susu + jeruk), HPV kulit (kutil/kodok), Streptococcus mutans (ulat gigi; catatan: topik gigi berlubang sudah pernah dipakai sebelum 25 Nov, narator berbeda), memori kerja (doorway effect), saraf trigeminal (brain freeze), kutu rambut (pedikulosis), kelenjar kelopak mata (bintitan/hordeolum), sistem vestibular (mabuk perjalanan), otot siliaris (mata pegal layar).
+28 Nov: folikel rambut (rontok/telogen), beta-karoten (karotenemia/telapak kuning), bakteri anaerob lidah (bau mulut pagi), serat otot (DOMS/pegal class meeting), otot betis (kram malam), tungau Sarcoptes (skabies/kudis santri), Malassezia (panu), adenovirus (konjungtivitis/belekan), kuku jempol kaki (cantengan/kuku tumbuh ke dalam).
 
 ## Log harian
+
+### 28 Nov 2026 (Sabtu)
+- Followers Threads 76.336 (−28 dalam 7 hari; −10 dari 26 Nov).
+- 20–27 Nov: 60 postingan, rata-rata 5.236 views (median 1.061); thread rata-rata 5.782 (median 1.137); guru to guru 323. Views akun 7 hari 656 rb (+72% vs minggu sebelumnya menurut Tebar, didorong Otot Masseter). Klik akun 7 hari: 9.
+- Top 3 (7 hari, x usual): Otot Masseter/gertak gigi 168.269 (221x, 98 komentar organik, 71 repost); serumen 47.123 (58x); remaja lapar terus 26.094 (37,8x). Benjolan leher naik ke 7.131 (9,4x).
+- Kemarin (27 Nov), thread rata-rata 1.553 views (naik dari 1.019 pada 25 Nov). Top 3: kutu rambut "bukan jorok, jangan minyak tanah" 2.584 (3,4x, 9 komentar organik); kutil "bukan karena kodok" 2.434 (3,2x, 3 komentar); otot siliaris/mata pegal HP 1.632 (2,1x). Bottom 3: brain freeze (PENGUMUMAN) 825 (1,1x); ulat gigi 1.040 (1,4x); muntah di bus 1.240 (1,6x). Semua thread kemarin ≥1,1x, tidak ada yang di bawah usual.
+- Soft selling 7 hari (20, 25, 27 Nov): rata-rata 338 views, 0 komentar RPP baru; guru to guru pertanyaan (21, 24, 26 Nov) rata-rata 308; thread 5.782.
+- Otomatisasi komentar RPP: total 7 terpicu, 7 terkirim, 0 klik (tidak ada yang baru sejak 26 Nov 20.32 WIB).
+- Hari tanpa postingan (7 hari): 22 dan 23 Nov.
+- Pelajaran: label "jorok" + larangan cara rumahan yang berbahaya (minyak tanah) + mitos penyebab ("karena kodok") konsisten paling tinggi di hari tanpa outlier; hook PENGUMUMAN tentang sensasi sesaat (brain freeze) paling rendah. P.S. RPP di bagian 10 belum menghasilkan satu pun komentar RPP dalam 4 hari; ajakan mungkin terlalu jauh di bawah. Hari ini 4 thread pola pemenang: kudis santri, panu, belekan (ASI), cantengan (silet).
+- Postingan terjadwal (Tebar):
+  - 07.00 Folikel Rambut, rontok saat disisir bukan karena keramas (PENGUMUMAN)
+  - 08.00 Beta-karoten, telapak kuning karena pepaya/wortel vs sakit kuning (PENGUMUMAN)
+  - 09.00 Bakteri Anaerob Lidah, bau mulut pagi bukan jorok, jangan dikerik sendok
+  - 10.00 Serat Otot, pegal setelah class meeting bukan asam laktat (DOMS) (**P.S. RPP**)
+  - 11.00 Otot Betis, kram malam bukan kurang darah, jangan ditusuk peniti
+  - 12.00 Tungau Sarcoptes, kudis santri bukan jorok/tanda betah, jangan minyak tanah (**jembatan IG**)
+  - 13.00 Malassezia, panu bukan jorok, jangan lengkuas/minyak tanah (**jembatan IG**)
+  - 14.00 Adenovirus, belekan tidak menular lewat tatapan, jangan tetes ASI (**P.S. RPP**)
+  - 15.00 Kuku Jempol Kaki, cantengan bukan jorok, jangan dicungkil silet
+  - 16.00 Guru to guru (Sabtu, tanpa promosi): pertanyaan murid paling tak terduga
 
 ### 27 Nov 2026 (Jumat)
 - Followers Threads 76.345 (−22 dalam 7 hari; +8 dari kemarin).
