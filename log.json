@@ -589,6 +589,46 @@
       "soft_selling": true,
       "design": "v2",
       "note": "kartu DM RPP sudut LKPD kerja kelompok; dijadwalkan lewat Tebar"
+    },
+    {
+      "date": "2026-11-28",
+      "track": "A",
+      "thread_title": "Kutu Rambut / Si Penumpang Kepala (anak yang kepalanya berkutu bukan anak yang jorok, rambutnya jangan disiram minyak tanah atau obat nyamuk)",
+      "thread_platform_id": "17967160155247750",
+      "thread_views_at_conversion": 2584,
+      "ig_scheduled_at": "2026-11-28T06:47:00+07:00",
+      "ig_post_id": "86fa6c23-114d-4efb-9424-f5c7310f554b",
+      "fb_post_id": "c9d66d3f-e317-4fae-9401-86b5895be9eb",
+      "folder": "2026-11-28-kutu-rambut",
+      "soft_selling": true,
+      "design": "v2",
+      "note": "Sabtu, soft selling komentar RPP sudut Modul Ajar materi serangga; dijadwalkan lewat Tebar"
+    },
+    {
+      "date": "2026-11-28",
+      "track": "A2",
+      "thread_title": "Kelenjar Ludah / Si Keran yang Tak Pernah Tutup (anak yang ngiler saat tidur bukan anak yang jorok, bukan tanda cacingan)",
+      "thread_platform_id": "17996515563061874",
+      "thread_views_at_conversion": 2501,
+      "ig_scheduled_at": "2026-11-28T15:47:00+07:00",
+      "ig_post_id": "ea6188a5-9033-4a76-b7d7-cb3feacaf959",
+      "fb_post_id": "bd912b93-ce48-4c07-85ca-ad4f601160f6",
+      "folder": "2026-11-28-ngiler",
+      "soft_selling": false,
+      "design": "v2",
+      "note": "dijadwalkan lewat Tebar"
+    },
+    {
+      "date": "2026-11-28",
+      "track": "B",
+      "topic": "Murid yang selalu duduk paling belakang: mungkin ia sedang mencari tempat aman, bukan menghindar (judul: Yang duduk paling belakang.)",
+      "ig_scheduled_at": "2026-11-28T20:13:00+07:00",
+      "ig_post_id": "1b1e0703-fbb9-4c16-b78f-f65720c8f004",
+      "fb_post_id": "a031794d-027b-49d3-8a72-d25b08914fbb",
+      "folder": "2026-11-28-buku-duduk-belakang",
+      "soft_selling": false,
+      "design": "v2",
+      "note": "dijadwalkan lewat Tebar"
     }
   ]
 }

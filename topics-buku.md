@@ -19,7 +19,7 @@ Tandai [x] setelah dipakai, beserta tanggal.
 - [x] (2026-11-21) Anak yang tidak pernah dijemput: siapa yang menunggu bersamanya?
 - [x] (2026-11-24) Hari terakhir sekolah: murid yang paling diam sering paling sulit berpamitan
 - [x] (2026-11-26) Guru yang lelah: merawat diri supaya tetap bisa hadir untuk murid
-- [ ] Murid yang selalu duduk paling belakang: mungkin ia sedang mencari tempat aman, bukan menghindar
+- [x] (2026-11-28) Murid yang selalu duduk paling belakang: mungkin ia sedang mencari tempat aman, bukan menghindar
 - [ ] Menjelang pembagian rapor: angka di rapor dibaca orang tua, kalimat wali kelas dibaca anak
 - [ ] Murid yang paling cepat selesai mengerjakan tugas: ia juga butuh diperhatikan, bukan hanya diberi tugas tambahan
 - [ ] Murid yang jarang ditelepon orang tuanya: siapa yang bertanya bagaimana harinya?
